@@ -1790,6 +1790,22 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF74600077": {
+    "contest_id": 158,
+    "language": "GNU C++17",
+    "path": "codeforces/158/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Next Round",
+    "problem_url": "https://codeforces.com/contest/158/problem/A",
+    "submission_id": "CF74600077",
+    "submission_url": "https://codeforces.com/contest/158/submission/74600077",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/28/2020 10:58"
+  },
   "CF74600260": {
     "contest_id": 96,
     "language": "GNU C++17",
