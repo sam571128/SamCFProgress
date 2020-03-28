@@ -1790,6 +1790,22 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF74638812": {
+    "contest_id": 230,
+    "language": "GNU C++17",
+    "path": "codeforces/230/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Dragons",
+    "problem_url": "https://codeforces.com/contest/230/problem/A",
+    "submission_id": "CF74638812",
+    "submission_url": "https://codeforces.com/contest/230/submission/74638812",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Mar/28/2020 20:20"
+  },
   "CF74644958": {
     "contest_id": 492,
     "language": "GNU C++17",
