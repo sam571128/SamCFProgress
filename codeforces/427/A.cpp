@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
- 
+
 #define ll long long 
 #define fastio ios_base::sync_with_stdio(0);cin.tie(0);
 #define push push_back
@@ -8,7 +8,7 @@
 #define intz(z) int z = 0;
 using namespace std;
 typedef vector<int> vi; 
- 
+
 int main(){
 	fastio
 	cini(t);
