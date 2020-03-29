@@ -1790,6 +1790,22 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF74719178": {
+    "contest_id": 758,
+    "language": "GNU C++17",
+    "path": "codeforces/758/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Holiday Of Equality",
+    "problem_url": "https://codeforces.com/contest/758/problem/A",
+    "submission_id": "CF74719178",
+    "submission_url": "https://codeforces.com/contest/758/submission/74719178",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/29/2020 18:35"
+  },
   "CF74720702": {
     "contest_id": 466,
     "language": "GNU C++17",
