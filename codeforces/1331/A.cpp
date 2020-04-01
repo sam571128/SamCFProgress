@@ -15,5 +15,5 @@ typedef vector<string> vs;
 
 int main(){
 	fastio
-	cout<<"No";
+	cout<< "NO";
 }
