@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
- 
+
 #define ll long long
 #define fastio ios_base::sync_with_stdio(0);cin.tie(0);
 #define push push_back
@@ -11,7 +11,7 @@
 using namespace std;
 typedef vector<int> vi;
 typedef vector<string> vs;
- 
+
 /********SAM571128's SOLUTION**********/
 bool arr[10000];
 int main(){
