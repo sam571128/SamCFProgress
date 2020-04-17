@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
- 
+
 #define ll long long
 #define fastio ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
 #define pb push_back
@@ -12,7 +12,7 @@ using namespace std;
 typedef vector<int> vi;
 typedef vector<ll int> vll;
 typedef vector<string> vs;
- 
+
 int adj[100005];
 int main(){
 	fastio
