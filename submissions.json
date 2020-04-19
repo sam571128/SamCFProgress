@@ -1790,6 +1790,23 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF77268954": {
+    "contest_id": 508,
+    "language": "GNU C++17",
+    "path": "codeforces/508/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Anton and currency you all know",
+    "problem_url": "https://codeforces.com/contest/508/problem/B",
+    "submission_id": "CF77268954",
+    "submission_url": "https://codeforces.com/contest/508/submission/77268954",
+    "tags": [
+      "greedy",
+      "math",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Apr/19/2020 19:27"
+  },
   "CF77269716": {
     "contest_id": 447,
     "language": "GNU C++17",
