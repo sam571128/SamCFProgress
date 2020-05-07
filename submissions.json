@@ -1790,6 +1790,21 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF79229150": {
+    "contest_id": 1345,
+    "language": "GNU C++17",
+    "path": "codeforces/1345/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Puzzle Pieces",
+    "problem_url": "https://codeforces.com/contest/1345/problem/A",
+    "submission_id": "CF79229150",
+    "submission_url": "https://codeforces.com/contest/1345/submission/79229150",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/07/2020 12:34"
+  },
   "CF79474946": {
     "contest_id": 1352,
     "language": "GNU C++17",

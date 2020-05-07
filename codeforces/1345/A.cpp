@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
- 
+
 #define ll long long
 #define fastio ios_base::sync_with_stdio(0);cin.tie(0);
 #define pb push_back
@@ -13,7 +13,7 @@ typedef vector<int> vi;
 typedef vector<ll int> vll;
 typedef vector<string> vs;
 typedef vector< pair<int,int> > vpi;
- 
+
 /********SAM571128's SOLUTION**********/
 int main(){
 	fastio
