@@ -1790,6 +1790,24 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF79613025": {
+    "contest_id": 1339,
+    "language": "GNU C++17",
+    "path": "codeforces/1339/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Filling Diamonds",
+    "problem_url": "https://codeforces.com/contest/1339/problem/A",
+    "submission_id": "CF79613025",
+    "submission_url": "https://codeforces.com/contest/1339/submission/79613025",
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "May/10/2020 11:39"
+  },
   "CF79613205": {
     "contest_id": 702,
     "language": "GNU C++17",
