@@ -1790,6 +1790,22 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF79652312": {
+    "contest_id": 362,
+    "language": "GNU C++17",
+    "path": "codeforces/362/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Petya and Staircases",
+    "problem_url": "https://codeforces.com/contest/362/problem/B",
+    "submission_id": "CF79652312",
+    "submission_url": "https://codeforces.com/contest/362/submission/79652312",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "May/10/2020 20:31"
+  },
   "CF79653610": {
     "contest_id": 279,
     "language": "GNU C++17",
