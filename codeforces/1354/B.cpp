@@ -24,7 +24,10 @@ int main(){
 			a[s[i]-'0'-1] = i;
 			if(a[0]!=-1&&a[1]!=-1&&a[2]!=-1) len = min(max({a[0],a[1],a[2]})-min({a[0],a[1],a[2]})+1,len);
 		}
-		cout << (len==INT_MAX? 0 : len) << "\n";	
+		cout << "\n";
+		cout << (len==INT_MAX? 0 : len) << "\n";
+		
 	}
 	cerr << "Time : " << (double) clock() / (double) CLOCKS_PER_SEC << "s\n";
+
 }
