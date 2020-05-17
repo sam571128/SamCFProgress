@@ -5,34 +5,26 @@
 
 using namespace std;
 
-const int INF = 1e9;
+int check(char c, int ones,int twos,int threes){
+	if(c=='1') if(1<ones){ones--;return true; } else{return false;}
+	if(c=='2') if(1<twos){twos--;return true; } else{return false;}
+	if(c=='3') if(1<threes){threes--;return true;} else{return false;}
+	return false;
+}
 int main(){
-	fastio;
+	fastio 
 	int t;
 	cin >> t;
 	while(t--){
-		string str;
-		cin >> str;
-		set<char> s;
-		int l = 0, r = 0, ans = INF;
-		map <int , int >  cnt;
-		 
-		while ( l < str.size() ) {
-		    while ( r < str.size() && s.size() < 3 ) {
-		       s.insert(str[r]);
-		       cnt[str[r]]++;
-		       r++;
-		    }
-		    if (s.size() >= 3) {
-				ans = min(ans, r-l);
-			}
-		    if ( cnt[str[l]] == 1 ) s.erase(str[l]); 
-		    cnt[str[l]]--; 
-		    l++;
+		string s;
+		cin >> s;
+		int len = INT_MAX;
+		int a[] = {-1,-1,-1};
+		for(int i = 0; i < s.size();i++){
+			a[s[i]-'0'-1] = i;
+			if(a[0]!=-1&&a[1]!=-1&&a[2]!=-1) len = min(max({a[0],a[1],a[2]})-min({a[0],a[1],a[2]})+1,len);
 		}
-		if ( ans == INF ) ans = 0;
-		 
-		cout << ans << endl;
+		cout << (len==INT_MAX? 0 : len) << "\n";	
 	}
 	cerr << "Time : " << (double) clock() / (double) CLOCKS_PER_SEC << "s\n";
 }
