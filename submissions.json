@@ -1790,6 +1790,22 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF80562713": {
+    "contest_id": 1073,
+    "language": "GNU C++17",
+    "path": "codeforces/1073/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Vasya and Robot",
+    "problem_url": "https://codeforces.com/contest/1073/problem/C",
+    "submission_id": "CF80562713",
+    "submission_url": "https://codeforces.com/contest/1073/submission/80562713",
+    "tags": [
+      "binary search",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "May/18/2020 10:10"
+  },
   "CF80565010": {
     "contest_id": 1016,
     "language": "GNU C++17",
