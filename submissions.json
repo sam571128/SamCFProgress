@@ -1790,6 +1790,21 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF81835150": {
+    "contest_id": 193,
+    "language": "GNU C++17",
+    "path": "codeforces/193/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Xor",
+    "problem_url": "https://codeforces.com/contest/193/problem/B",
+    "submission_id": "CF81835150",
+    "submission_url": "https://codeforces.com/contest/193/submission/81835150",
+    "tags": [
+      "brute force",
+      "*2000"
+    ],
+    "timestamp": "May/29/2020 08:05"
+  },
   "CF81837991": {
     "contest_id": 1358,
     "language": "GNU C++17",
