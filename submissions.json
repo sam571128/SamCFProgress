@@ -1790,6 +1790,22 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF83138414": {
+    "contest_id": 1365,
+    "language": "GNU C++17",
+    "path": "codeforces/1365/E.cpp",
+    "problem_index": "E",
+    "problem_name": "Maximum Subsequence Value",
+    "problem_url": "https://codeforces.com/contest/1365/problem/E",
+    "submission_id": "CF83138414",
+    "submission_url": "https://codeforces.com/contest/1365/submission/83138414",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "*1900"
+    ],
+    "timestamp": "Jun/08/2020 21:18"
+  },
   "CF83176420": {
     "contest_id": 478,
     "language": "GNU C++17",
