@@ -1,10 +1,10 @@
 #include <bits/stdc++.h>
- 
+
 #define ll long long
 #define fastio ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
- 
+
 using namespace std;
- 
+
 void solve(){
 	int n;
 	cin >> n;
@@ -20,7 +20,7 @@ void solve(){
 	if(x!=y) cout << -1 << "\n";
 	else cout << x << "\n";
 }
- 
+
 int main(){
 	fastio
 	int t;
