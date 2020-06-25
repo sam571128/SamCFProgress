@@ -1790,6 +1790,22 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF84938240": {
+    "contest_id": 148,
+    "language": "GNU C++17",
+    "path": "codeforces/148/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Terse princess",
+    "problem_url": "https://codeforces.com/contest/148/problem/C",
+    "submission_id": "CF84938240",
+    "submission_url": "https://codeforces.com/contest/148/submission/84938240",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Jun/25/2020 12:49"
+  },
   "CF84939348": {
     "contest_id": 433,
     "language": "GNU C++17",
