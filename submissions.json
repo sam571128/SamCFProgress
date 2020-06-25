@@ -1790,6 +1790,23 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF84939348": {
+    "contest_id": 433,
+    "language": "GNU C++17",
+    "path": "codeforces/433/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Ryouko's Memory Note",
+    "problem_url": "https://codeforces.com/contest/433/problem/C",
+    "submission_id": "CF84939348",
+    "submission_url": "https://codeforces.com/contest/433/submission/84939348",
+    "tags": [
+      "implementation",
+      "math",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "Jun/25/2020 13:13"
+  },
   "CF84940608": {
     "contest_id": 1280,
     "language": "GNU C++17",
