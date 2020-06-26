@@ -1790,6 +1790,22 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF85118623": {
+    "contest_id": 1341,
+    "language": "GNU C++17",
+    "path": "codeforces/1341/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Nastya and Strange Generator",
+    "problem_url": "https://codeforces.com/contest/1341/problem/C",
+    "submission_id": "CF85118623",
+    "submission_url": "https://codeforces.com/contest/1341/submission/85118623",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Jun/26/2020 19:17"
+  },
   "CF85120976": {
     "contest_id": 1341,
     "language": "GNU C++17",
