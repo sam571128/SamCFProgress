@@ -1,31 +1,42 @@
 #include <bits/stdc++.h>
 
 #define ll long long
-#define fastio ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
+#define fastio ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+
 using namespace std;
-typedef vector<int> vi;
-typedef vector<ll int> vll;
-typedef vector<string> vs;
-typedef vector< pair<int,int> > vpi;
+
+ll mss(vector<ll> v){
+	ll sum = 0, ans = 0;
+	for(int i = 0;i < v.size();i++){
+		sum = max((ll)0,sum+v[i]);
+		ans = max(sum,ans);
+	}
+	return ans;
+}
 
 void solve(){
-	ll n;
+	int n;
 	cin >> n;
-	vector<ll> v(n);
-	ll dp[n+1][3];
-	memset(dp,0,sizeof dp);
-	for(auto &x : v) cin >> x;
+	vector<ll> arr(n);
+	vector<ll> a;
+	vector<ll> b;
+	ll sum = 0;
 	for(int i = 0;i < n;i++){
-		dp[i+1][0] = max(dp[i+1][0],dp[i][0]+(i&1 ? 0 :v[i]));
-		if(i+2<=n) dp[i+2][1] = max(dp[i+2][1],max(dp[i][0],dp[i][1])+(i&1 ? v[i] : v[i+1]));
-		dp[i+1][2] = max(dp[i+1][2], max({dp[i][0],dp[i][1],dp[i][2]}) + (i&1 ? 0 : v[i]));
+		cin >> arr[i];
+		if(i&1^1) sum += arr[i];
 	}
-	cout << max({dp[n][0],dp[n][1],dp[n][2]}) << "\n";
+	for(int i = 0;i < n-1;i+=2){
+		a.push_back(arr[i+1]-arr[i]);
+	}
+	for(int i = 1;i < n-1;i+=2){
+		b.push_back(arr[i]-arr[i+1]);
+	}
+	cout << sum + max({(ll)0,mss(a),mss(b)}) << "\n";
 }
 
 int main(){
 	fastio
-	int t;
+	ll t;
 	cin >> t;
 	while(t--) solve();
 }
