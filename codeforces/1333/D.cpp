@@ -7,44 +7,45 @@ using namespace std;
 
 int main(){
 	fastio
-	ll n,k;
+	int n,k;
 	cin >> n >> k;
-	vector<ll> arr(n);
-	for(ll i = 0;i < n;i++){
-		char tmp;
-		cin >> tmp;
-		arr[i] = (tmp=='R' ? 1 : 0);
+	string s;
+	cin >> s;
+	int arr[n];
+	for(int i = 0;i < n;i++){
+		if(s[i]=='R') arr[i] = 1;
+		else arr[i] = 0;
 	}
-	queue<vector<ll>> q;
-	vector<ll> v;
-	ll times = 0;
+	queue<vector<int>> q;
+	int ma = 0;
+	vector<int> v;
 	while(true){
 		v.clear();
-		for(ll i = 0;i < n-1;i++){
+		for(int i = 0;i < n-1;i++){
 			if(arr[i]&&!arr[i+1]){
-				v.push_back(i+1);
+				v.push_back(i);
 				swap(arr[i],arr[i+1]);
 				i++;
 			}
 		}
 		if(v.size()==0) break;
-		times += v.size();
+		ma += v.size();
 		q.push(v);
-	}
-	if(k < q.size() || k > times){
+	} 
+	if(k < q.size() || k > ma){
 		cout << -1 << "\n";
 		return 0;
 	}
-	ll c = k - q.size();
+	int cnt = k - q.size();
 	while(!q.empty()){
-		auto x = q.front(); q.pop();
-		while(x.size() > 1 && c > 0){
-			cout << "1 " << x.back() << "\n";
-			x.pop_back();
-			c--;
+		vector<int> tmp = q.front(); q.pop();
+		while(tmp.size()>1&&cnt>0){
+			cnt--;
+			cout << 1 << " " << tmp.back()+1 << "\n";
+			tmp.pop_back();
 		}
-		cout << x.size() << " ";
-		for(auto tmp : x) cout << tmp << " ";
-		cout << "\n";
+		cout << tmp.size() << " ";
+		for(auto x : tmp) cout << x+1 << " ";
+		cout << '\n';
 	}
 }
