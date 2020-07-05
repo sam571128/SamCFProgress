@@ -1,4 +1,20 @@
 {
+  "AC14968941": {
+    "contest_id": "abc173",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc173/B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Judge Status Summary",
+    "problem_url": "https://atcoder.jp/contests/abc173/tasks/abc173_b",
+    "submission_id": "AC14968941",
+    "submission_url": "https://atcoder.jp/contests/abc173/submissions/14968941",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/05/2020 20:03"
+  },
   "AC15147952": {
     "contest_id": "aising2020",
     "language": "C++ (GCC 9.2.1)",
