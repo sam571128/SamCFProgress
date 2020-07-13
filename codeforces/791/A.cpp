@@ -6,7 +6,7 @@ using namespace std;
  
 int main(){
 	fastio
-	int a,b,c;
+	int a,b;
 	cin >> a >> b;
 	int count = 0;
 	while(a<=b){
