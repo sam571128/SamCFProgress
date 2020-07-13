@@ -1790,6 +1790,22 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF86745946": {
+    "contest_id": 794,
+    "language": "GNU C++17",
+    "path": "codeforces/794/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Bank Robbery",
+    "problem_url": "https://codeforces.com/contest/794/problem/A",
+    "submission_id": "CF86745946",
+    "submission_url": "https://codeforces.com/contest/794/submission/86745946",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/13/2020 20:15"
+  },
   "CF86746353": {
     "contest_id": 1243,
     "language": "GNU C++17",
