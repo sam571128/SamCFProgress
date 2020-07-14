@@ -1790,6 +1790,23 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF86839955": {
+    "contest_id": 485,
+    "language": "GNU C++17",
+    "path": "codeforces/485/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Factory",
+    "problem_url": "https://codeforces.com/contest/485/problem/A",
+    "submission_id": "CF86839955",
+    "submission_url": "https://codeforces.com/contest/485/submission/86839955",
+    "tags": [
+      "implementation",
+      "math",
+      "matrices",
+      "*1400"
+    ],
+    "timestamp": "Jul/14/2020 22:38"
+  },
   "CF86841161": {
     "contest_id": 771,
     "language": "GNU C++17",
