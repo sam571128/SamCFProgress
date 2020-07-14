@@ -1790,6 +1790,24 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF86793855": {
+    "contest_id": 437,
+    "language": "GNU C++17",
+    "path": "codeforces/437/B.cpp",
+    "problem_index": "B",
+    "problem_name": "The Child and Set",
+    "problem_url": "https://codeforces.com/contest/437/problem/B",
+    "submission_id": "CF86793855",
+    "submission_url": "https://codeforces.com/contest/437/submission/86793855",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Jul/14/2020 11:09"
+  },
   "CF86794753": {
     "contest_id": 430,
     "language": "GNU C++17",
