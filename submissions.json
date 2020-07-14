@@ -1790,6 +1790,21 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF86807493": {
+    "contest_id": 101,
+    "language": "GNU C++17",
+    "path": "codeforces/101/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Homework",
+    "problem_url": "https://codeforces.com/contest/101/problem/A",
+    "submission_id": "CF86807493",
+    "submission_url": "https://codeforces.com/contest/101/submission/86807493",
+    "tags": [
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Jul/14/2020 15:32"
+  },
   "CF86826793": {
     "contest_id": 1375,
     "language": "GNU C++17",
