@@ -1790,6 +1790,21 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF86876746": {
+    "contest_id": 48,
+    "language": "GNU C++17",
+    "path": "codeforces/48/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Permutations",
+    "problem_url": "https://codeforces.com/contest/48/problem/D",
+    "submission_id": "CF86876746",
+    "submission_url": "https://codeforces.com/contest/48/submission/86876746",
+    "tags": [
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Jul/15/2020 11:03"
+  },
   "CF86877173": {
     "contest_id": 864,
     "language": "GNU C++17",
