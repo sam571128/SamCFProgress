@@ -1790,6 +1790,22 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF86988254": {
+    "contest_id": 846,
+    "language": "GNU C++17",
+    "path": "codeforces/846/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Curriculum Vitae",
+    "problem_url": "https://codeforces.com/contest/846/problem/A",
+    "submission_id": "CF86988254",
+    "submission_url": "https://codeforces.com/contest/846/submission/86988254",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Jul/16/2020 20:41"
+  },
   "CF86995785": {
     "contest_id": 862,
     "language": "GNU C++17",
