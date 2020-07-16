@@ -1790,6 +1790,23 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF87005743": {
+    "contest_id": 747,
+    "language": "GNU C++17",
+    "path": "codeforces/747/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Winter Is Coming",
+    "problem_url": "https://codeforces.com/contest/747/problem/D",
+    "submission_id": "CF87005743",
+    "submission_url": "https://codeforces.com/contest/747/submission/87005743",
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "Jul/16/2020 23:58"
+  },
   "CF87052108": {
     "contest_id": 1100,
     "language": "GNU C++17",
