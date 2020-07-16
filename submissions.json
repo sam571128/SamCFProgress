@@ -1790,6 +1790,22 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF86961827": {
+    "contest_id": 631,
+    "language": "GNU C++17",
+    "path": "codeforces/631/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Report",
+    "problem_url": "https://codeforces.com/contest/631/problem/C",
+    "submission_id": "CF86961827",
+    "submission_url": "https://codeforces.com/contest/631/submission/86961827",
+    "tags": [
+      "data structures",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Jul/16/2020 14:31"
+  },
   "CF86981296": {
     "contest_id": 527,
     "language": "GNU C++17",
