@@ -1790,6 +1790,21 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF86959742": {
+    "contest_id": 40,
+    "language": "GNU C++17",
+    "path": "codeforces/40/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Repaintings",
+    "problem_url": "https://codeforces.com/contest/40/problem/B",
+    "submission_id": "CF86959742",
+    "submission_url": "https://codeforces.com/contest/40/submission/86959742",
+    "tags": [
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Jul/16/2020 13:55"
+  },
   "CF86961827": {
     "contest_id": 631,
     "language": "GNU C++17",
