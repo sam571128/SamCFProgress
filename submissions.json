@@ -1790,6 +1790,21 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF87004897": {
+    "contest_id": 852,
+    "language": "GNU C++17",
+    "path": "codeforces/852/G.cpp",
+    "problem_index": "G",
+    "problem_name": "Bathroom terminal",
+    "problem_url": "https://codeforces.com/contest/852/problem/G",
+    "submission_id": "CF87004897",
+    "submission_url": "https://codeforces.com/contest/852/submission/87004897",
+    "tags": [
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Jul/16/2020 23:49"
+  },
   "CF87005743": {
     "contest_id": 747,
     "language": "GNU C++17",
