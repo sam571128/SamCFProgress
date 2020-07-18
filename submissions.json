@@ -1790,6 +1790,21 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF87244241": {
+    "contest_id": 690,
+    "language": "GNU C++17",
+    "path": "codeforces/690/D2.cpp",
+    "problem_index": "D2",
+    "problem_name": "The Wall (medium)",
+    "problem_url": "https://codeforces.com/contest/690/problem/D2",
+    "submission_id": "CF87244241",
+    "submission_url": "https://codeforces.com/contest/690/submission/87244241",
+    "tags": [
+      "combinatorics",
+      "*1800"
+    ],
+    "timestamp": "Jul/18/2020 23:28"
+  },
   "CF87245693": {
     "contest_id": 940,
     "language": "GNU C++17",
