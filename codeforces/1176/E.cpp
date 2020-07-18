@@ -1,53 +1,67 @@
 #include <bits/stdc++.h>
 
-#define ll long long
-#define fastio ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
-
 using namespace std;
 
-const int N = 2e5+5;
-vector<vector<int>> adj;
-bool visited[N];
-int d[N];
+const int INF = 1e9;
 
-void dfs(int u, int c = 0){
-	visited[u] = true;
-	d[u] = c;
-	for(auto v : adj[u]){
-		if(!visited[v]) dfs(v,c^1);
+int n, m;
+vector<int> d;
+vector<vector<int>> g;
+
+void bfs(int s) {
+	d = vector<int>(n, INF);
+	d[s] = 0;
+	
+	queue<int> q;
+	q.push(s);
+	
+	while (!q.empty()) {
+		int v = q.front();
+		q.pop();
+		
+		for (auto to : g[v]) {
+			if (d[to] == INF) {
+				d[to] = d[v] + 1;
+				q.push(to);
+			}
+		}
 	}
 }
 
 void solve(){
-	int n,m;
 	cin >> n >> m;
-	adj = vector<vector<int>>(n+1);
-	memset(visited,0,sizeof visited);
-	for(int i = 0;i < m;i++){	
-		int u,v;
-		cin >> u >> v;
-		adj[u].push_back(v);
-		adj[v].push_back(u);
+	g = vector<vector<int>>(n);
+	for (int i = 0; i < m; ++i) {
+		int x, y;
+		cin >> x >> y;
+		--x, --y;
+		g[x].push_back(y);
+		g[y].push_back(x);
 	}
-	dfs(1);
-	vector<int> c1,c2;
-	for(int i = 1;i <= n;i++){
-		if(d[i]) c1.push_back(i);
-		else c2.push_back(i);
+
+	bfs(0);
+	vector<int> even, odd;
+	for (int i = 0; i < n; ++i) {
+		if (d[i] & 1) odd.push_back(i);
+		else even.push_back(i);
 	}
-	if(c1.size()>c2.size()){
-		cout << c2.size() << "\n";
-		for(auto x : c2) cout << x << " ";
-	}else{
-		cout << c1.size() << "\n";
-		for(auto x : c1) cout << x << " ";
+
+	if (even.size() < odd.size()) {
+		cout << even.size() << endl;
+		for (auto v : even) cout << v + 1 << " ";
+	} else {
+		cout << odd.size() << endl;
+		for (auto v : odd) cout << v + 1 << " ";
 	}
-	cout << "\n";
+	cout << endl;
 }
 
-int main(){
-	fastio
+int main() {
+	
 	int t;
 	cin >> t;
 	while(t--) solve();
+	
+		
+	
 }
