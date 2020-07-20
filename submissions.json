@@ -1790,6 +1790,21 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF87439488": {
+    "contest_id": 278,
+    "language": "GNU C++17",
+    "path": "codeforces/278/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Circle Line",
+    "problem_url": "https://codeforces.com/contest/278/problem/A",
+    "submission_id": "CF87439488",
+    "submission_url": "https://codeforces.com/contest/278/submission/87439488",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/20/2020 22:46"
+  },
   "CF87477760": {
     "contest_id": 1304,
     "language": "GNU C++17",
