@@ -1790,6 +1790,24 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF88337371": {
+    "contest_id": 1389,
+    "language": "GNU C++17",
+    "path": "codeforces/1389/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Good String",
+    "problem_url": "https://codeforces.com/contest/1389/problem/C",
+    "submission_id": "CF88337371",
+    "submission_url": "https://codeforces.com/contest/1389/submission/88337371",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "Jul/29/2020 23:39"
+  },
   "CF88372843": {
     "contest_id": 1389,
     "language": "GNU C++17",
