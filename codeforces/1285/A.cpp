@@ -1,4 +1,3 @@
-//#pragma GCC optimize ("O3,unrolled-loops")
 #include <bits/stdc++.h>
 
 #define int long long
@@ -17,5 +16,5 @@ signed main(){
 		if(s[i]=='L') cnt1++;
 		else cnt2++;
 	}
-	cout << cnt1+cnt2+1 << "\n";
+	cout << cnt2+cnt1+1 << "\n";
 }
