@@ -1,4 +1,20 @@
 {
+  "AC15672208": {
+    "contest_id": "abc174",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc174/B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Distance",
+    "problem_url": "https://atcoder.jp/contests/abc174/tasks/abc174_b",
+    "submission_id": "AC15672208",
+    "submission_url": "https://atcoder.jp/contests/abc174/submissions/15672208",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Aug/03/2020 23:33"
+  },
   "AC15672405": {
     "contest_id": "dp",
     "language": "C++ (GCC 9.2.1)",
