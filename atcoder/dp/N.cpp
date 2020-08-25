@@ -9,18 +9,22 @@ signed main(){
 	fastio
 	int n;
 	cin >> n;
-	int arr[n], pref[n+1] = {};
+	int a[n];
+	vector<int> pref(n+1,0);
 	for(int i = 0;i < n;i++){
-		cin >> arr[i];
-		pref[i+1] = pref[i] + arr[i]; 
+		cin >> a[i];
+		pref[i+1] += a[i] + pref[i];
 	}
 	int dp[n][n];
-	memset(dp,0x3f3f3f,sizeof dp);
-	for(int i = 0;i < n;i++) dp[i][i] = 0;
-	for(int i = 0;i < n;i++){
-		for(int j = i-1;~j;j--){
-			for(int k = j;k <= i;k++){
-				dp[j][i] = min(dp[j][i],dp[j][k]+dp[k+1][i]+pref[i+1]-pref[j]);
+	memset(dp,0,sizeof dp);
+	for(int i = n-1;i >= 0;i--){
+		for(int j = i+1;j < n;j++){
+			if(i==j) dp[i][j] = a[i];
+			else{
+				dp[i][j] = 1e18;
+				for(int k = i;k <= j;k++){
+					dp[i][j] = min(dp[i][j],dp[i][k] + dp[k+1][j] + pref[j+1]-pref[i]);
+				}
 			}
 		}
 	}
