@@ -14,7 +14,7 @@ void solve(){
 	int arr[n];
 	vector<int> ans(n,0);
 	for(auto &x : arr) cin >> x;
-	int a = -INF, b = INF; 
+	int a = -INF, b = INF;
 	for(int i = 0;i < n;i++){
 		if(a < arr[i]&&b > arr[i]){
 			if(i==n-1 || arr[i] < arr[i+1]) a = arr[i];
