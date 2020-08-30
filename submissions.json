@@ -1790,6 +1790,22 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF91339736": {
+    "contest_id": 1269,
+    "language": "GNU C++17",
+    "path": "codeforces/1269/E.cpp",
+    "problem_index": "E",
+    "problem_name": "K Integers",
+    "problem_url": "https://codeforces.com/contest/1269/problem/E",
+    "submission_id": "CF91339736",
+    "submission_url": "https://codeforces.com/contest/1269/submission/91339736",
+    "tags": [
+      "binary search",
+      "data structures",
+      "*2300"
+    ],
+    "timestamp": "Aug/30/2020 19:56"
+  },
   "CF91339788": {
     "contest_id": 1269,
     "language": "GNU C++17",
