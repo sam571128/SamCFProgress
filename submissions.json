@@ -1790,6 +1790,23 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF91323755": {
+    "contest_id": 1269,
+    "language": "GNU C++17",
+    "path": "codeforces/1269/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Domino for Young",
+    "problem_url": "https://codeforces.com/contest/1269/problem/D",
+    "submission_id": "CF91323755",
+    "submission_url": "https://codeforces.com/contest/1269/submission/91323755",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "Aug/30/2020 13:55"
+  },
   "CF91325741": {
     "contest_id": 1269,
     "language": "GNU C++17",
