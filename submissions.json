@@ -1790,6 +1790,25 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF91478354": {
+    "contest_id": 1271,
+    "language": "GNU C++17",
+    "path": "codeforces/1271/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Portals",
+    "problem_url": "https://codeforces.com/contest/1271/problem/D",
+    "submission_id": "CF91478354",
+    "submission_url": "https://codeforces.com/contest/1271/submission/91478354",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "Aug/31/2020 17:44"
+  },
   "CF91527677": {
     "contest_id": 1271,
     "language": "GNU C++17",
