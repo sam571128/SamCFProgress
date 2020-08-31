@@ -1790,6 +1790,24 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF91454468": {
+    "contest_id": 1271,
+    "language": "GNU C++17",
+    "path": "codeforces/1271/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Shawarma Tent",
+    "problem_url": "https://codeforces.com/contest/1271/problem/C",
+    "submission_id": "CF91454468",
+    "submission_url": "https://codeforces.com/contest/1271/submission/91454468",
+    "tags": [
+      "brute force",
+      "geometry",
+      "greedy",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Aug/31/2020 12:22"
+  },
   "CF91478354": {
     "contest_id": 1271,
     "language": "GNU C++17",
