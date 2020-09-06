@@ -21,7 +21,7 @@ int update(int val){
 }
 
 int solve(){
-	int l = 0, r = 1e18, mid;
+	int l = 0, r = n, mid;
 	while(l < r){
 		mid = l+r>>1;
 		if(update(mid)<=k) r = mid;
