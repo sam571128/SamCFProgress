@@ -5,6 +5,41 @@
 
 using namespace std;
 
+/* O(n*k)
+	void solve(){
+	int n,k,l;
+	cin >> n >> k >> l;
+	int arr[n+1];
+	for(int i = 1;i <= n;i++){
+		char tmp;
+		cin >> tmp;
+		arr[i] = (islower(tmp)>0);
+	}
+	int dp[n+1][k+1] = {}, ans = INT_MAX;
+	for(int i = 1;i <= n;i++){
+		dp[i][0] = dp[i-1][0] + arr[i];
+	}
+	for(int i = 1;i <= n;i++){
+		for(int j = 1;j <= k;j++){
+			dp[i][j] = min(dp[i][j-1],dp[i-1][j]+arr[i]);
+			if(i-l>=0) dp[i][j] = min(dp[i][j],dp[i-l][j-1]);
+		}
+	}
+	ans = min(ans,dp[n][k]);
+	for(int i = 1;i <= n;i++) arr[i]^=1;
+	for(int i = 1;i <= n;i++){
+		dp[i][0] = dp[i-1][0] + arr[i];
+	}
+	for(int i = 1;i <= n;i++){
+		for(int j = 1;j <= k;j++){
+			dp[i][j] = min(dp[i][j-1],dp[i-1][j]+arr[i]);
+			if(i-l>=0) dp[i][j] = min(dp[i][j],dp[i-l][j-1]);
+		}
+	}
+	ans = min(ans,dp[n][k]);
+	cout << ans << "\n";
+}*/
+
 const int N = 1e6+5, INF = 1e18;
 int arr[N];
 pair<int,int> dp[N];
