@@ -1790,6 +1790,26 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF92069395": {
+    "contest_id": 1405,
+    "language": "GNU C++17",
+    "path": "codeforces/1405/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Tree Tag",
+    "problem_url": "https://codeforces.com/contest/1405/problem/D",
+    "submission_id": "CF92069395",
+    "submission_url": "https://codeforces.com/contest/1405/submission/92069395",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "games",
+      "strings",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "Sep/07/2020 00:19"
+  },
   "CF92225260": {
     "contest_id": 1407,
     "language": "GNU C++17",
