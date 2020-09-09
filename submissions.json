@@ -1,4 +1,20 @@
 {
+  "AC16591644": {
+    "contest_id": "practice2",
+    "language": "C++ (GCC 9.2.1 with AC Library v1.0)",
+    "path": "atcoder/practice2/B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Fenwick Tree",
+    "problem_url": "https://atcoder.jp/contests/practice2/tasks/practice2_b",
+    "submission_id": "AC16591644",
+    "submission_url": "https://atcoder.jp/contests/practice2/submissions/16591644",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Sep/09/2020 14:33"
+  },
   "AC16591737": {
     "contest_id": "practice2",
     "language": "C++ (GCC 9.2.1 with AC Library v1.0)",
