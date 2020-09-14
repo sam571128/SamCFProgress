@@ -1790,6 +1790,22 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF92804419": {
+    "contest_id": 1418,
+    "language": "GNU C++17",
+    "path": "codeforces/1418/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Negative Prefixes",
+    "problem_url": "https://codeforces.com/contest/1418/problem/B",
+    "submission_id": "CF92804419",
+    "submission_url": "https://codeforces.com/contest/1418/submission/92804419",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Sep/14/2020 22:55"
+  },
   "CF92809151": {
     "contest_id": 1418,
     "language": "GNU C++17",
