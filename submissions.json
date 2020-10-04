@@ -1790,6 +1790,21 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF94625452": {
+    "contest_id": 617,
+    "language": "GNU C++17",
+    "path": "codeforces/617/E.cpp",
+    "problem_index": "E",
+    "problem_name": "XOR and Favorite Number",
+    "problem_url": "https://codeforces.com/contest/617/problem/E",
+    "submission_id": "CF94625452",
+    "submission_url": "https://codeforces.com/contest/617/submission/94625452",
+    "tags": [
+      "data structures",
+      "*2200"
+    ],
+    "timestamp": "Oct/04/2020 16:01"
+  },
   "CF94638122": {
     "contest_id": 877,
     "language": "GNU C++17",
