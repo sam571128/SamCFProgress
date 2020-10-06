@@ -1790,6 +1790,22 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF94823692": {
+    "contest_id": 70,
+    "language": "GNU C++17",
+    "path": "codeforces/70/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Professor's task",
+    "problem_url": "https://codeforces.com/contest/70/problem/D",
+    "submission_id": "CF94823692",
+    "submission_url": "https://codeforces.com/contest/70/submission/94823692",
+    "tags": [
+      "data structures",
+      "geometry",
+      "*2700"
+    ],
+    "timestamp": "Oct/06/2020 14:08"
+  },
   "CF94924654": {
     "contest_id": 1158,
     "language": "GNU C++17",
