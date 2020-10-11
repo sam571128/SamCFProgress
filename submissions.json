@@ -1790,6 +1790,23 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF95197495": {
+    "contest_id": 1430,
+    "language": "GNU C++17",
+    "path": "codeforces/1430/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Number of Apartments",
+    "problem_url": "https://codeforces.com/contest/1430/problem/A",
+    "submission_id": "CF95197495",
+    "submission_url": "https://codeforces.com/contest/1430/submission/95197495",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Oct/11/2020 17:13"
+  },
   "CF95199809": {
     "contest_id": 1430,
     "language": "GNU C++17",
