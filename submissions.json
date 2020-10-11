@@ -1790,6 +1790,21 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF95170776": {
+    "contest_id": 1260,
+    "language": "GNU C++17",
+    "path": "codeforces/1260/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Heating",
+    "problem_url": "https://codeforces.com/contest/1260/problem/A",
+    "submission_id": "CF95170776",
+    "submission_url": "https://codeforces.com/contest/1260/submission/95170776",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Oct/11/2020 12:18"
+  },
   "CF95171085": {
     "contest_id": 1260,
     "language": "GNU C++17",
