@@ -1790,6 +1790,23 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF95174901": {
+    "contest_id": 830,
+    "language": "GNU C++17",
+    "path": "codeforces/830/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Cards Sorting",
+    "problem_url": "https://codeforces.com/contest/830/problem/B",
+    "submission_id": "CF95174901",
+    "submission_url": "https://codeforces.com/contest/830/submission/95174901",
+    "tags": [
+      "data structures",
+      "implementation",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Oct/11/2020 13:36"
+  },
   "CF95190256": {
     "contest_id": 1427,
     "language": "GNU C++17",
