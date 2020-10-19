@@ -7,7 +7,7 @@ using namespace std;
 
 map<int,int> m;
 map<int,int> dp;
-signed main(){ 
+signed main(){
 	fastio
 	int n,k;
 	cin >> n >> k;
