@@ -1790,6 +1790,22 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF96671692": {
+    "contest_id": 1435,
+    "language": "GNU C++17",
+    "path": "codeforces/1435/B.cpp",
+    "problem_index": "B",
+    "problem_name": "A New Technique",
+    "problem_url": "https://codeforces.com/contest/1435/problem/B",
+    "submission_id": "CF96671692",
+    "submission_url": "https://codeforces.com/contest/1435/submission/96671692",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Oct/25/2020 19:50"
+  },
   "CF96680889": {
     "contest_id": 1435,
     "language": "GNU C++17",
