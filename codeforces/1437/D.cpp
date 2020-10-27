@@ -8,22 +8,25 @@ using namespace std;
 void solve(){
 	int n;
 	cin >> n;
-	queue<int> q;
-	q.push(0);
+	int tmp1 = 0, tmp2 = 0, ans = 0;
 	int arr[n];
 	for(auto &x : arr) cin >> x;
-	int ans = 0;
 	for(int i = 1;i < n;i++){
-		if(arr[i] < arr[i-1])
-			q.pop();
-		q.push(q.front()+1), ans = max(q.front()+1,ans);
+		if(i==1||arr[i] < arr[i-1]){
+			if(tmp1) tmp1--,tmp2++;
+			else{
+				tmp1 = tmp2, tmp2 = 0, ans++;
+			}
+		}else{
+			tmp2++;
+		}
 	}
 	cout << ans << "\n";
 }
 
 signed main(){
 	fastio
-	int t;
+	int t = 1;
 	cin >> t;
 	while(t--) solve();
 }
