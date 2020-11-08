@@ -1790,6 +1790,22 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF97958145": {
+    "contest_id": 1352,
+    "language": "Kotlin",
+    "path": "codeforces/1352/A.kt",
+    "problem_index": "A",
+    "problem_name": "Sum of Round Numbers",
+    "problem_url": "https://codeforces.com/contest/1352/problem/A",
+    "submission_id": "CF97958145",
+    "submission_url": "https://codeforces.com/contest/1352/submission/97958145",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/09/2020 07:51"
+  },
   "CF97959389": {
     "contest_id": 1352,
     "language": "Kotlin",
