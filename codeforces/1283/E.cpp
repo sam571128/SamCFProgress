@@ -7,32 +7,32 @@ using namespace std;
 
 signed main(){
 	fastio
-	//DP first time for minimum houses
 	int n;
 	cin >> n;
 	int arr[n];
 	for(auto &x : arr) cin >> x;
 	sort(arr,arr+n);
-	int ans1 = 1, lst = arr[0];
-	for(int i = 1;i < n;i++){
+	int mi = 1, lst = arr[0];
+	for(int i = 0;i < n;i++){
 		if(arr[i] > lst+2){
-			ans1++;
+			mi++;
 			lst = arr[i];
 		}
 	}
-	map<int,int> m;
-	int ans2 = 0;
+	map<int,bool> m;
+	int ans[n+1] = {};
 	for(int i = 0;i < n;i++){
+		ans[i+1] = ans[i];
 		if(!m[arr[i]-1]){
-			ans2++;
-			m[arr[i]-1]++;
+			ans[i+1] = ans[i]+1;
+			m[arr[i]-1] = 1;
 		}else if(!m[arr[i]]){
-			ans2++;
-			m[arr[i]]++;
+			ans[i+1] = ans[i]+1;
+			m[arr[i]] = 1;
 		}else if(!m[arr[i]+1]){
-			ans2++;
-			m[arr[i]+1]++;
+			ans[i+1] = ans[i]+1;
+			m[arr[i]+1] = 1;
 		}
 	}
-	cout << ans1 << " " << ans2 << "\n";
+	cout << mi << " " << ans[n] << "\n";
 }
