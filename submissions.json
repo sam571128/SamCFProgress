@@ -1790,6 +1790,21 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF98026240": {
+    "contest_id": 1352,
+    "language": "Kotlin",
+    "path": "codeforces/1352/G.kt",
+    "problem_index": "G",
+    "problem_name": "Special Permutation",
+    "problem_url": "https://codeforces.com/contest/1352/problem/G",
+    "submission_id": "CF98026240",
+    "submission_url": "https://codeforces.com/contest/1352/submission/98026240",
+    "tags": [
+      "constructive algorithms",
+      "*1600"
+    ],
+    "timestamp": "Nov/10/2020 07:26"
+  },
   "CF98026258": {
     "contest_id": 1432,
     "language": "Kotlin",
