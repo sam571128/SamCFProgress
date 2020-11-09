@@ -1790,6 +1790,21 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF97960789": {
+    "contest_id": 1352,
+    "language": "Kotlin",
+    "path": "codeforces/1352/D.kt",
+    "problem_index": "D",
+    "problem_name": "Alice, Bob and Candies",
+    "problem_url": "https://codeforces.com/contest/1352/problem/D",
+    "submission_id": "CF97960789",
+    "submission_url": "https://codeforces.com/contest/1352/submission/97960789",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Nov/09/2020 10:15"
+  },
   "CF97992693": {
     "contest_id": 1352,
     "language": "Kotlin",
