@@ -1790,6 +1790,22 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF97959389": {
+    "contest_id": 1352,
+    "language": "Kotlin",
+    "path": "codeforces/1352/B.kt",
+    "problem_index": "B",
+    "problem_name": "Same Parity Summands",
+    "problem_url": "https://codeforces.com/contest/1352/problem/B",
+    "submission_id": "CF97959389",
+    "submission_url": "https://codeforces.com/contest/1352/submission/97959389",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Nov/09/2020 09:02"
+  },
   "CF97959449": {
     "contest_id": 1352,
     "language": "Kotlin",
