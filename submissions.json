@@ -1790,6 +1790,21 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF98028151": {
+    "contest_id": 1432,
+    "language": "Kotlin",
+    "path": "codeforces/1432/C.kt",
+    "problem_index": "C",
+    "problem_name": "Equalize Prices Again",
+    "problem_url": "https://codeforces.com/contest/1432/problem/C",
+    "submission_id": "CF98028151",
+    "submission_url": "https://codeforces.com/contest/1432/submission/98028151",
+    "tags": [
+      "*special problem",
+      "math"
+    ],
+    "timestamp": "Nov/10/2020 09:08"
+  },
   "CF98029414": {
     "contest_id": 1432,
     "language": "Kotlin",
