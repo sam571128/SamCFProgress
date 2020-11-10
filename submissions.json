@@ -1790,6 +1790,21 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF98028091": {
+    "contest_id": 1432,
+    "language": "Kotlin",
+    "path": "codeforces/1432/B.kt",
+    "problem_index": "B",
+    "problem_name": "Candies and Two Sisters",
+    "problem_url": "https://codeforces.com/contest/1432/problem/B",
+    "submission_id": "CF98028091",
+    "submission_url": "https://codeforces.com/contest/1432/submission/98028091",
+    "tags": [
+      "*special problem",
+      "math"
+    ],
+    "timestamp": "Nov/10/2020 09:05"
+  },
   "CF98028151": {
     "contest_id": 1432,
     "language": "Kotlin",
