@@ -1790,6 +1790,21 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF98029414": {
+    "contest_id": 1432,
+    "language": "Kotlin",
+    "path": "codeforces/1432/D.kt",
+    "problem_index": "D",
+    "problem_name": "Construct the String",
+    "problem_url": "https://codeforces.com/contest/1432/problem/D",
+    "submission_id": "CF98029414",
+    "submission_url": "https://codeforces.com/contest/1432/submission/98029414",
+    "tags": [
+      "*special problem",
+      "constructive algorithms"
+    ],
+    "timestamp": "Nov/10/2020 10:08"
+  },
   "CF98102469": {
     "contest_id": 600,
     "language": "GNU C++17",
