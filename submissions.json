@@ -1790,6 +1790,23 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF98851506": {
+    "contest_id": 1251,
+    "language": "GNU C++17",
+    "path": "codeforces/1251/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Broken Keyboard",
+    "problem_url": "https://codeforces.com/contest/1251/problem/A",
+    "submission_id": "CF98851506",
+    "submission_url": "https://codeforces.com/contest/1251/submission/98851506",
+    "tags": [
+      "brute force",
+      "strings",
+      "two pointers",
+      "*1000"
+    ],
+    "timestamp": "Nov/19/2020 10:06"
+  },
   "CF98857091": {
     "contest_id": 414,
     "language": "GNU C++17",
