@@ -1790,6 +1790,21 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF98895555": {
+    "contest_id": 1452,
+    "language": "GNU C++17",
+    "path": "codeforces/1452/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Robot Program",
+    "problem_url": "https://codeforces.com/contest/1452/problem/A",
+    "submission_id": "CF98895555",
+    "submission_url": "https://codeforces.com/contest/1452/submission/98895555",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/19/2020 22:37"
+  },
   "CF98902260": {
     "contest_id": 1452,
     "language": "GNU C++17",
