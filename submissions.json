@@ -1790,6 +1790,24 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF99226081": {
+    "contest_id": 958,
+    "language": "GNU C++17",
+    "path": "codeforces/958/E1.cpp",
+    "problem_index": "E1",
+    "problem_name": "Guard Duty (easy)",
+    "problem_url": "https://codeforces.com/contest/958/problem/E1",
+    "submission_id": "CF99226081",
+    "submission_url": "https://codeforces.com/contest/958/submission/99226081",
+    "tags": [
+      "brute force",
+      "geometry",
+      "greedy",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Nov/22/2020 15:02"
+  },
   "CF99228285": {
     "contest_id": 721,
     "language": "GNU C++17",
