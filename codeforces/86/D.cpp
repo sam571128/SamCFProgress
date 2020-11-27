@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 
-#define ll long long
+#define int long long
 #define fastio ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
 
 using namespace std;
@@ -8,7 +8,7 @@ using namespace std;
 int m[(int)1e6+5];
 
 const int N = 2e5+5;
-ll k, ans = 0;
+int k, ans = 0;
 
 struct query{
 	int l, r, id;
@@ -18,15 +18,15 @@ struct query{
 };
 
 void add(int n){
-	ans -= (ll)m[n]*m[n]*n;
+	ans -= m[n]*m[n]*n;
 	m[n]++;
-	ans += (ll)m[n]*m[n]*n;
+	ans += m[n]*m[n]*n;
 }
 
 void del(int n){
-	ans -= (ll)m[n]*m[n]*n;
+	ans -= m[n]*m[n]*n;
 	m[n]--;
-	ans += (ll)m[n]*m[n]*n;
+	ans += m[n]*m[n]*n;
 }
 
 signed main(){
@@ -43,7 +43,7 @@ signed main(){
 		Q.push_back({l,r,i});
 	}
 	sort(Q.begin(),Q.end());
-	ll res[m];
+	int res[m];
 	int l = 1, r = 0, t = 0;
 	for(auto [ql,qr,id] : Q){
 		while(l < ql) del(arr[l++]);
