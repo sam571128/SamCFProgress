@@ -1790,6 +1790,22 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF99697854": {
+    "contest_id": 13,
+    "language": "GNU C++17",
+    "path": "codeforces/13/E.cpp",
+    "problem_index": "E",
+    "problem_name": "Holes",
+    "problem_url": "https://codeforces.com/contest/13/problem/E",
+    "submission_id": "CF99697854",
+    "submission_url": "https://codeforces.com/contest/13/submission/99697854",
+    "tags": [
+      "data structures",
+      "dsu",
+      "*2700"
+    ],
+    "timestamp": "Nov/27/2020 16:36"
+  },
   "CF99707949": {
     "contest_id": 493,
     "language": "GNU C++17",
