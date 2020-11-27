@@ -1790,6 +1790,24 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF99685166": {
+    "contest_id": 86,
+    "language": "GNU C++17",
+    "path": "codeforces/86/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Powerful array",
+    "problem_url": "https://codeforces.com/contest/86/problem/D",
+    "submission_id": "CF99685166",
+    "submission_url": "https://codeforces.com/contest/86/submission/99685166",
+    "tags": [
+      "data structures",
+      "implementation",
+      "math",
+      "two pointers",
+      "*2200"
+    ],
+    "timestamp": "Nov/27/2020 12:40"
+  },
   "CF99685221": {
     "contest_id": 86,
     "language": "GNU C++17",
