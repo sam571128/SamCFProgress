@@ -1790,6 +1790,22 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF99771193": {
+    "contest_id": 852,
+    "language": "GNU C++17",
+    "path": "codeforces/852/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Neural Network country",
+    "problem_url": "https://codeforces.com/contest/852/problem/B",
+    "submission_id": "CF99771193",
+    "submission_url": "https://codeforces.com/contest/852/submission/99771193",
+    "tags": [
+      "dp",
+      "matrices",
+      "*2000"
+    ],
+    "timestamp": "Nov/28/2020 15:45"
+  },
   "CF99772467": {
     "contest_id": 1283,
     "language": "GNU C++17",
