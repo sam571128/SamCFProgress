@@ -1790,6 +1790,21 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF99778185": {
+    "contest_id": 958,
+    "language": "GNU C++17",
+    "path": "codeforces/958/C2.cpp",
+    "problem_index": "C2",
+    "problem_name": "Encryption (medium)",
+    "problem_url": "https://codeforces.com/contest/958/problem/C2",
+    "submission_id": "CF99778185",
+    "submission_url": "https://codeforces.com/contest/958/submission/99778185",
+    "tags": [
+      "dp",
+      "*2000"
+    ],
+    "timestamp": "Nov/28/2020 17:17"
+  },
   "CF99831467": {
     "contest_id": 1422,
     "language": "GNU C++17",
