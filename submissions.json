@@ -1790,6 +1790,23 @@
     ],
     "timestamp": "Dec/21/2020 00:30"
   },
+  "CF99831467": {
+    "contest_id": 1422,
+    "language": "GNU C++17",
+    "path": "codeforces/1422/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Bargain",
+    "problem_url": "https://codeforces.com/contest/1422/problem/C",
+    "submission_id": "CF99831467",
+    "submission_url": "https://codeforces.com/contest/1422/submission/99831467",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Nov/29/2020 12:47"
+  },
   "CF99832520": {
     "contest_id": 888,
     "language": "GNU C++17",
