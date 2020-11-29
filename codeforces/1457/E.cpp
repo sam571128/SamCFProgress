@@ -5,22 +5,28 @@
 
 using namespace std;
 
-signed main(){
-	fastio
+void solve(){
 	int n,k;
 	cin >> n >> k;
 	int arr[n];
+	priority_queue<int> s;
 	for(auto &x : arr) cin >> x;
-	priority_queue<int> pq;
 	sort(arr,arr+n,greater<int>());
-	for(int i = 0;i <= k;i++) pq.push(0);
-	
+	for(int i = 0;i <= k;i++){
+		s.push(0);
+	}
 	int ans = 0;
 	for(auto x : arr){
-		int val = pq.top(); pq.pop();
+		int val = s.top(); s.pop();
 		ans += val;
-		pq.push(x+val);
+		s.push(val+x);
 	}
-	
 	cout << ans << "\n";
+}
+
+signed main(){
+	fastio
+	int t = 1;
+	//cin >> t;
+	while(t--) solve();
 }
