@@ -1,4 +1,19 @@
 {
+  "CF100236857": {
+    "contest_id": 412,
+    "language": "GNU C++17",
+    "path": "codeforces/412/E.cpp",
+    "problem_index": "E",
+    "problem_name": "E-mail Addresses",
+    "problem_url": "https://codeforces.com/contest/412/problem/E",
+    "submission_id": "CF100236857",
+    "submission_url": "https://codeforces.com/contest/412/submission/100236857",
+    "tags": [
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "Dec/03/2020 12:33"
+  },
   "CF100255492": {
     "contest_id": 339,
     "language": "GNU C++17",
