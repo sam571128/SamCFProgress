@@ -1,4 +1,20 @@
 {
+  "CF100327288": {
+    "contest_id": 833,
+    "language": "GNU C++17",
+    "path": "codeforces/833/A.cpp",
+    "problem_index": "A",
+    "problem_name": "The Meaningless Game",
+    "problem_url": "https://codeforces.com/contest/833/problem/A",
+    "submission_id": "CF100327288",
+    "submission_url": "https://codeforces.com/contest/833/submission/100327288",
+    "tags": [
+      "math",
+      "number theory",
+      "*1700"
+    ],
+    "timestamp": "Dec/04/2020 15:16"
+  },
   "CF100331545": {
     "contest_id": 819,
     "language": "GNU C++17",
