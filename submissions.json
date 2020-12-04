@@ -1,4 +1,21 @@
 {
+  "CF100331545": {
+    "contest_id": 819,
+    "language": "GNU C++17",
+    "path": "codeforces/819/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Mister B and PR Shifts",
+    "problem_url": "https://codeforces.com/contest/819/problem/B",
+    "submission_id": "CF100331545",
+    "submission_url": "https://codeforces.com/contest/819/submission/100331545",
+    "tags": [
+      "data structures",
+      "implementation",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "Dec/04/2020 16:12"
+  },
   "CF100341516": {
     "contest_id": 1138,
     "language": "GNU C++17",
