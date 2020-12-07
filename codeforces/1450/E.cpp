@@ -28,7 +28,7 @@ signed main(){
 	for(int i = 1;i <= n;i++){
 		for(int j = 0;j <= n;j++){
 			for(int k = 0;k <= n;k++){
-				if(adj[j][i]+adj[i][k] < adj[j][k]){
+				if(adj[j][i]!=INF&&adj[i][k]!=INF&&adj[j][i]+adj[i][k] < adj[j][k]){
 					adj[j][k] = adj[j][i]+adj[i][k];
 					if(adj[j][k] < -INF){
 						cout << "NO\n";
