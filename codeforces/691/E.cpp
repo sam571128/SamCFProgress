@@ -39,8 +39,8 @@ mat fastpow(mat m, int p){
 int cnt(int num){
 	int ans = 0;
 	while(num){
-		ans+=num%2;
-		num>>=1;
+		ans++;
+		num &= num-1;
 	}
 	return ans;
 }
