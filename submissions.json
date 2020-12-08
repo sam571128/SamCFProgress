@@ -1,4 +1,23 @@
 {
+  "CF100728936": {
+    "contest_id": 754,
+    "language": "GNU C++17",
+    "path": "codeforces/754/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Vladik and chat",
+    "problem_url": "https://codeforces.com/contest/754/problem/C",
+    "submission_id": "CF100728936",
+    "submission_url": "https://codeforces.com/contest/754/submission/100728936",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "implementation",
+      "strings",
+      "*2200"
+    ],
+    "timestamp": "Dec/09/2020 07:37"
+  },
   "CF100734925": {
     "contest_id": 1423,
     "language": "GNU C++17",
