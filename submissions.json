@@ -1,4 +1,22 @@
 {
+  "CF100734925": {
+    "contest_id": 1423,
+    "language": "GNU C++17",
+    "path": "codeforces/1423/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Valuable Paper",
+    "problem_url": "https://codeforces.com/contest/1423/problem/B",
+    "submission_id": "CF100734925",
+    "submission_url": "https://codeforces.com/contest/1423/submission/100734925",
+    "tags": [
+      "binary search",
+      "flows",
+      "graph matchings",
+      "graphs",
+      "*1900"
+    ],
+    "timestamp": "Dec/09/2020 12:42"
+  },
   "CF100740068": {
     "contest_id": 960,
     "language": "GNU C++17",
