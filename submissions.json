@@ -1,4 +1,19 @@
 {
+  "CF100902622": {
+    "contest_id": 717,
+    "language": "GNU C++17",
+    "path": "codeforces/717/E.cpp",
+    "problem_index": "E",
+    "problem_name": "Paint it really, really dark gray",
+    "problem_url": "https://codeforces.com/contest/717/problem/E",
+    "submission_id": "CF100902622",
+    "submission_url": "https://codeforces.com/contest/717/submission/100902622",
+    "tags": [
+      "dfs and similar",
+      "*1900"
+    ],
+    "timestamp": "Dec/11/2020 20:43"
+  },
   "CF100913461": {
     "contest_id": 1461,
     "language": "GNU C++17",
