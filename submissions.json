@@ -1,4 +1,24 @@
 {
+  "CF100885495": {
+    "contest_id": 533,
+    "language": "GNU C++17",
+    "path": "codeforces/533/E.cpp",
+    "problem_index": "E",
+    "problem_name": "Correcting Mistakes",
+    "problem_url": "https://codeforces.com/contest/533/problem/E",
+    "submission_id": "CF100885495",
+    "submission_url": "https://codeforces.com/contest/533/submission/100885495",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "hashing",
+      "strings",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "Dec/11/2020 16:18"
+  },
   "CF100888397": {
     "contest_id": 496,
     "language": "GNU C++17",
