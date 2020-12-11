@@ -64,7 +64,7 @@ int queryt(int idx, string s, int pos = 0){
 }
 
 signed main(){
-    fastio
+    //fastio
     int q;
     cin >> q;
     v.push_back(1);
