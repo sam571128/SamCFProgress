@@ -1,4 +1,19 @@
 {
+  "CF100888397": {
+    "contest_id": 496,
+    "language": "GNU C++17",
+    "path": "codeforces/496/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Tennis Game",
+    "problem_url": "https://codeforces.com/contest/496/problem/D",
+    "submission_id": "CF100888397",
+    "submission_url": "https://codeforces.com/contest/496/submission/100888397",
+    "tags": [
+      "binary search",
+      "*1900"
+    ],
+    "timestamp": "Dec/11/2020 17:04"
+  },
   "CF100893143": {
     "contest_id": 575,
     "language": "GNU C++17",
