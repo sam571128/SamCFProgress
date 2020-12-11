@@ -1,4 +1,20 @@
 {
+  "CF100893143": {
+    "contest_id": 575,
+    "language": "GNU C++17",
+    "path": "codeforces/575/H.cpp",
+    "problem_index": "H",
+    "problem_name": "Bots",
+    "problem_url": "https://codeforces.com/contest/575/problem/H",
+    "submission_id": "CF100893143",
+    "submission_url": "https://codeforces.com/contest/575/submission/100893143",
+    "tags": [
+      "combinatorics",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "Dec/11/2020 18:27"
+  },
   "CF100895691": {
     "contest_id": 796,
     "language": "GNU C++17",
