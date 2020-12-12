@@ -1,4 +1,21 @@
 {
+  "CF101002655": {
+    "contest_id": 351,
+    "language": "GNU C++17",
+    "path": "codeforces/351/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Jeff and Furik",
+    "problem_url": "https://codeforces.com/contest/351/problem/B",
+    "submission_id": "CF101002655",
+    "submission_url": "https://codeforces.com/contest/351/submission/101002655",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "probabilities",
+      "*1900"
+    ],
+    "timestamp": "Dec/12/2020 17:01"
+  },
   "CF101004719": {
     "contest_id": 803,
     "language": "GNU C++17",
