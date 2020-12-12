@@ -1,4 +1,21 @@
 {
+  "CF101004719": {
+    "contest_id": 803,
+    "language": "GNU C++17",
+    "path": "codeforces/803/F.cpp",
+    "problem_index": "F",
+    "problem_name": "Coprime Subsequences",
+    "problem_url": "https://codeforces.com/contest/803/problem/F",
+    "submission_id": "CF101004719",
+    "submission_url": "https://codeforces.com/contest/803/submission/101004719",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "number theory",
+      "*2000"
+    ],
+    "timestamp": "Dec/12/2020 17:26"
+  },
   "CF101011814": {
     "contest_id": 1203,
     "language": "GNU C++17",
