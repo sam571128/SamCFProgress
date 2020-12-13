@@ -1,4 +1,22 @@
 {
+  "CF101076792": {
+    "contest_id": 1167,
+    "language": "GNU C++17",
+    "path": "codeforces/1167/F.cpp",
+    "problem_index": "F",
+    "problem_name": "Scalar Queries",
+    "problem_url": "https://codeforces.com/contest/1167/problem/F",
+    "submission_id": "CF101076792",
+    "submission_url": "https://codeforces.com/contest/1167/submission/101076792",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "math",
+      "sortings",
+      "*2300"
+    ],
+    "timestamp": "Dec/13/2020 15:00"
+  },
   "CF101079816": {
     "contest_id": 1030,
     "language": "GNU C++17",
