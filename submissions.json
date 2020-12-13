@@ -1,4 +1,21 @@
 {
+  "CF101074272": {
+    "contest_id": 837,
+    "language": "GNU C++17",
+    "path": "codeforces/837/E.cpp",
+    "problem_index": "E",
+    "problem_name": "Vasya's Function",
+    "problem_url": "https://codeforces.com/contest/837/problem/E",
+    "submission_id": "CF101074272",
+    "submission_url": "https://codeforces.com/contest/837/submission/101074272",
+    "tags": [
+      "binary search",
+      "implementation",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "Dec/13/2020 14:17"
+  },
   "CF101076792": {
     "contest_id": 1167,
     "language": "GNU C++17",
