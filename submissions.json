@@ -1,4 +1,19 @@
 {
+  "CF101214345": {
+    "contest_id": 377,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/377/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Developing Game",
+    "problem_url": "https://codeforces.com/contest/377/problem/D",
+    "submission_id": "CF101214345",
+    "submission_url": "https://codeforces.com/contest/377/submission/101214345",
+    "tags": [
+      "data structures",
+      "*2400"
+    ],
+    "timestamp": "Dec/15/2020 12:07"
+  },
   "CF101233468": {
     "contest_id": 981,
     "language": "GNU C++17 (64)",
