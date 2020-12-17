@@ -1,4 +1,22 @@
 {
+  "CF101585471": {
+    "contest_id": 678,
+    "language": "GNU C++17",
+    "path": "codeforces/678/E.cpp",
+    "problem_index": "E",
+    "problem_name": "Another Sith Tournament",
+    "problem_url": "https://codeforces.com/contest/678/problem/E",
+    "submission_id": "CF101585471",
+    "submission_url": "https://codeforces.com/contest/678/submission/101585471",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "math",
+      "probabilities",
+      "*2200"
+    ],
+    "timestamp": "Dec/18/2020 01:40"
+  },
   "CF101598769": {
     "contest_id": 940,
     "language": "GNU C++17",
