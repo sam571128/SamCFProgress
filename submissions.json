@@ -1,4 +1,22 @@
 {
+  "CF101650150": {
+    "contest_id": 1166,
+    "language": "GNU C++14",
+    "path": "codeforces/1166/F.cpp",
+    "problem_index": "F",
+    "problem_name": "Vicky's Delivery Service",
+    "problem_url": "https://codeforces.com/contest/1166/problem/F",
+    "submission_id": "CF101650150",
+    "submission_url": "https://codeforces.com/contest/1166/submission/101650150",
+    "tags": [
+      "data structures",
+      "dsu",
+      "graphs",
+      "hashing",
+      "*2400"
+    ],
+    "timestamp": "Dec/18/2020 22:54"
+  },
   "CF101729271": {
     "contest_id": 1459,
     "language": "GNU C++14",
