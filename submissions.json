@@ -1,4 +1,21 @@
 {
+  "CF101619279": {
+    "contest_id": 1017,
+    "language": "GNU C++17",
+    "path": "codeforces/1017/E.cpp",
+    "problem_index": "E",
+    "problem_name": "The Supersonic Rocket",
+    "problem_url": "https://codeforces.com/contest/1017/problem/E",
+    "submission_id": "CF101619279",
+    "submission_url": "https://codeforces.com/contest/1017/submission/101619279",
+    "tags": [
+      "geometry",
+      "hashing",
+      "strings",
+      "*2400"
+    ],
+    "timestamp": "Dec/18/2020 16:03"
+  },
   "CF101628171": {
     "contest_id": 1254,
     "language": "GNU C++17",
