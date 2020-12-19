@@ -13,104 +13,105 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-951 | [A - Simple Math 2](https://atcoder.jp/contests/arc111/tasks/arc111_a) | [C++ (GCC 9.2.1)](./atcoder/arc111/A.cpp) | `AtCoder` `*300` | Jan/09/2021 23:39 | 
-950 | [B - Reversible Cards](https://atcoder.jp/contests/arc111/tasks/arc111_b) | [C++ (GCC 9.2.1)](./atcoder/arc111/B.cpp) | `AtCoder` `*400` | Jan/09/2021 21:51 | 
-949 | [D - Sum of Paths](https://codeforces.com/contest/1467/problem/D) | [GNU C++17 (64)](./codeforces/1467/D.cpp) | `combinatorics` `dp` | Jan/09/2021 01:00 | 
-948 | [C - Three Bags](https://codeforces.com/contest/1467/problem/C) | [GNU C++17 (64)](./codeforces/1467/C.cpp) | `greedy` | Jan/08/2021 23:53 | 
-947 | [A - Wizard of Orz](https://codeforces.com/contest/1467/problem/A) | [GNU C++17 (64)](./codeforces/1467/A.cpp) | `math` | Jan/08/2021 22:44 | 
-946 | [G - Tree Queries](https://codeforces.com/contest/825/problem/G) | [GNU C++17 (64)](./codeforces/825/G.cpp) | `dfs and similar` `graphs` `trees` `*2500` | Jan/08/2021 20:32 | 
-945 | [A - Kirill And The Game](https://codeforces.com/contest/842/problem/A) | [GNU C++17 (64)](./codeforces/842/A.cpp) | `brute force` `two pointers` `*1200` | Jan/08/2021 20:17 | 
-944 | [B - Door Frames](https://codeforces.com/contest/910/problem/B) | [GNU C++17 (64)](./codeforces/910/B.cpp) | `greedy` `implementation` `*1600` | Jan/08/2021 20:16 | 
-943 | [D - Anton and Chess](https://codeforces.com/contest/734/problem/D) | [GNU C++17 (64)](./codeforces/734/D.cpp) | `implementation` `*1700` | Jan/08/2021 17:19 | 
-942 | [D - Restructuring Company](https://codeforces.com/contest/566/problem/D) | [GNU C++17 (64)](./codeforces/566/D.cpp) | `data structures` `dsu` `*1900` | Jan/08/2021 17:17 | 
-941 | [D - Strange Definition](https://codeforces.com/contest/1471/problem/D) | [GNU C++17 (64)](./codeforces/1471/D.cpp) | `bitmasks` `graphs` `hashing` `math` `number theory` `*1900` | Jan/06/2021 09:55 | 
-940 | [D - Strange Housing](https://codeforces.com/contest/1470/problem/D) | [GNU C++17 (64)](./codeforces/1470/D.cpp) | `constructive algorithms` `dfs and similar` `graph matchings` `graphs` `greedy` `*2200` | Jan/06/2021 07:53 | 
-939 | [C - Strange Birthday Party](https://codeforces.com/contest/1471/problem/C) | [GNU C++17 (64)](./codeforces/1471/C.cpp) | `brute force` `greedy` `sortings` `*1300` | Jan/05/2021 22:58 | 
-938 | [B - Strange List](https://codeforces.com/contest/1471/problem/B) | [GNU C++17 (64)](./codeforces/1471/B.cpp) | `brute force` `greedy` `implementation` `math` `*1100` | Jan/05/2021 22:49 | 
-937 | [A - Strange Partition](https://codeforces.com/contest/1471/problem/A) | [GNU C++17 (64)](./codeforces/1471/A.cpp) | `greedy` `math` `number theory` `*900` | Jan/05/2021 22:37 | 
-936 | [D - Riverside Curio](https://codeforces.com/contest/957/problem/D) | [GNU C++17 (64)](./codeforces/957/D.cpp) | `dp` `greedy` `*1700` | Jan/05/2021 17:34 | 
-935 | [C - Three-level Laser](https://codeforces.com/contest/957/problem/C) | [GNU C++17 (64)](./codeforces/957/C.cpp) | `binary search` `greedy` `math` `two pointers` `*1600` | Jan/05/2021 17:14 | 
-934 | [B - Mystical Mosaic](https://codeforces.com/contest/957/problem/B) | [GNU C++17 (64)](./codeforces/957/B.cpp) | `brute force` `greedy` `implementation` `*1300` | Jan/05/2021 14:03 | 
-933 | [A - Tritonic Iridescence](https://codeforces.com/contest/957/problem/A) | [GNU C++17 (64)](./codeforces/957/A.cpp) | `implementation` `*1300` | Jan/05/2021 12:24 | 
-932 | [F - New Year's Puzzle](https://codeforces.com/contest/1472/problem/F) | [GNU C++17 (64)](./codeforces/1472/F.cpp) | `brute force` `dp` `fft` `graph matchings` `greedy` `sortings` `string suffix structures` `*2100` | Jan/05/2021 07:56 | 
-931 | [E - Correct Placement](https://codeforces.com/contest/1472/problem/E) | [GNU C++17 (64)](./codeforces/1472/E.cpp) | `binary search` `data structures` `dp` `sortings` `two pointers` `*1700` | Jan/05/2021 07:32 | 
-930 | [G - Moving to the Capital](https://codeforces.com/contest/1472/problem/G) | [GNU C++17 (64)](./codeforces/1472/G.cpp) | `dfs and similar` `dp` `graphs` `shortest paths` `*2100` | Jan/05/2021 00:32 | 
-929 | [D - Even-Odd Game](https://codeforces.com/contest/1472/problem/D) | [GNU C++17 (64)](./codeforces/1472/D.cpp) | `dp` `games` `greedy` `sortings` `*1200` | Jan/04/2021 22:54 | 
-928 | [C - Long Jumps](https://codeforces.com/contest/1472/problem/C) | [GNU C++17 (64)](./codeforces/1472/C.cpp) | `dp` `graphs` `*1100` | Jan/04/2021 22:46 | 
-927 | [B - Fair Division](https://codeforces.com/contest/1472/problem/B) | [GNU C++17 (64)](./codeforces/1472/B.cpp) | `dp` `greedy` `math` `*800` | Jan/04/2021 22:41 | 
-926 | [A - Cards for Friends](https://codeforces.com/contest/1472/problem/A) | [GNU C++17 (64)](./codeforces/1472/A.cpp) | `greedy` `math` `*800` | Jan/04/2021 22:38 | 
-925 | [E - Army Creation](https://codeforces.com/contest/813/problem/E) | [GNU C++17 (64)](./codeforces/813/E.cpp) | `binary search` `data structures` `*2200` | Jan/04/2021 17:31 | 
-924 | [D - Huge Strings](https://codeforces.com/contest/868/problem/D) | [GNU C++17 (64)](./codeforces/868/D.cpp) | `bitmasks` `brute force` `dp` `implementation` `strings` `*2200` | Jan/04/2021 12:35 | 
-923 | [C - Gotta Go Fast](https://codeforces.com/contest/865/problem/C) | [GNU C++17 (64)](./codeforces/865/C.cpp) | `binary search` `dp` `*2400` | Jan/04/2021 07:59 | 
-922 | [C - Willem, Chtholly and Seniorious](https://codeforces.com/contest/896/problem/C) | [GNU C++17 (64)](./codeforces/896/C.cpp) | `data structures` `probabilities` `*2600` | Jan/04/2021 07:39 | 
-921 | [E - Vasya and Good Sequences](https://codeforces.com/contest/1030/problem/E) | [GNU C++17 (64)](./codeforces/1030/E.cpp) | `bitmasks` `dp` `*2000` | Jan/04/2021 00:12 | 
-920 | [B - Flag of Berland](https://codeforces.com/contest/837/problem/B) | [GNU C++17 (64)](./codeforces/837/B.cpp) | `brute force` `implementation` `*1600` | Jan/04/2021 00:11 | 
-919 | [B - Minimize the error](https://codeforces.com/contest/960/problem/B) | [GNU C++17 (64)](./codeforces/960/B.cpp) | `data structures` `greedy` `sortings` `*1500` | Jan/04/2021 00:10 | 
-918 | [D - Pair Of Lines](https://codeforces.com/contest/961/problem/D) | [GNU C++17 (64)](./codeforces/961/D.cpp) | `geometry` `*2000` | Jan/03/2021 17:42 | 
-917 | [C - One-Based Arithmetic](https://codeforces.com/contest/440/problem/C) | [GNU C++17 (64)](./codeforces/440/C.cpp) | `brute force` `dfs and similar` `divide and conquer` `*1800` | Jan/03/2021 16:50 | 
-916 | [E - Okabe and El Psy Kongroo](https://codeforces.com/contest/821/problem/E) | [GNU C++17 (64)](./codeforces/821/E.cpp) | `dp` `matrices` `*2100` | Jan/03/2021 16:18 | 
-915 | [F - Close Group](https://atcoder.jp/contests/abc187/tasks/abc187_f) | [C++ (GCC 9.2.1)](./atcoder/abc187/F.cpp) | `AtCoder` `*600` | Jan/03/2021 12:48 | 
-914 | [C - Hills](https://codeforces.com/contest/1012/problem/C) | [GNU C++17 (64)](./codeforces/1012/C.cpp) | `dp` `*1900` | Jan/02/2021 23:53 | 
-913 | [A - A Twisty Movement](https://codeforces.com/contest/933/problem/A) | [GNU C++17 (64)](./codeforces/933/A.cpp) | `dp` `*1800` | Jan/02/2021 23:23 | 
-912 | [A - Five Dimensional Points](https://codeforces.com/contest/850/problem/A) | [GNU C++17 (64)](./codeforces/850/A.cpp) | `brute force` `geometry` `math` `*1700` | Jan/02/2021 22:48 | 
-911 | [C - Useful Decomposition](https://codeforces.com/contest/981/problem/C) | [GNU C++17 (64)](./codeforces/981/C.cpp) | `implementation` `trees` `*1400` | Jan/02/2021 22:21 | 
-910 | [B - The Bits](https://codeforces.com/contest/1017/problem/B) | [GNU C++17 (64)](./codeforces/1017/B.cpp) | `implementation` `math` `*1200` | Jan/02/2021 22:12 | 
-909 | [E - Through Path](https://atcoder.jp/contests/abc187/tasks/abc187_e) | [C++ (GCC 9.2.1)](./atcoder/abc187/E.cpp) | `AtCoder` `*500` | Jan/02/2021 21:21 | 
-908 | [D - Choose Me](https://atcoder.jp/contests/abc187/tasks/abc187_d) | [C++ (GCC 9.2.1)](./atcoder/abc187/D.cpp) | `AtCoder` `*400` | Jan/02/2021 20:27 | 
-907 | [C - 1-SAT](https://atcoder.jp/contests/abc187/tasks/abc187_c) | [C++ (GCC 9.2.1)](./atcoder/abc187/C.cpp) | `AtCoder` `*300` | Jan/02/2021 20:08 | 
-906 | [B - Gentle Pairs](https://atcoder.jp/contests/abc187/tasks/abc187_b) | [C++ (GCC 9.2.1)](./atcoder/abc187/B.cpp) | `AtCoder` `*200` | Jan/02/2021 20:03 | 
-905 | [A - Large Digits](https://atcoder.jp/contests/abc187/tasks/abc187_a) | [C++ (GCC 9.2.1)](./atcoder/abc187/A.cpp) | `AtCoder` `*100` | Jan/02/2021 20:01 | 
-904 | [C - Naming Company](https://codeforces.com/contest/794/problem/C) | [GNU C++17 (64)](./codeforces/794/C.cpp) | `games` `greedy` `sortings` `*1800` | Jan/02/2021 16:03 | 
-903 | [D - Ability To Convert](https://codeforces.com/contest/758/problem/D) | [GNU C++17 (64)](./codeforces/758/D.cpp) | `constructive algorithms` `dp` `greedy` `math` `strings` `*2000` | Jan/02/2021 16:03 | 
-902 | [E - Analysis of Pathes in Functional Graph](https://codeforces.com/contest/702/problem/E) | [GNU C++17 (64)](./codeforces/702/E.cpp) | `data structures` `graphs` `*2100` | Jan/02/2021 16:03 | 
-901 | [B - Queries about less or equal elements](https://codeforces.com/contest/600/problem/B) | [GNU C++17 (64)](./codeforces/600/B.cpp) | `binary search` `data structures` `sortings` `two pointers` `*1300` | Jan/02/2021 16:02 | 
-900 | [C - Party Lemonade](https://codeforces.com/contest/913/problem/C) | [GNU C++17 (64)](./codeforces/913/C.cpp) | `bitmasks` `dp` `greedy` `*1600` | Jan/02/2021 16:02 | 
-899 | [A - Dreamoon and Stairs](https://codeforces.com/contest/476/problem/A) | [GNU C++17 (64)](./codeforces/476/A.cpp) | `implementation` `math` `*1000` | Jan/02/2021 16:01 | 
-898 | [G - Two-Paths](https://codeforces.com/contest/1000/problem/G) | [GNU C++17 (64)](./codeforces/1000/G.cpp) | `data structures` `dp` `trees` `*2700` | Jan/02/2021 01:16 | 
-897 | [B - Fair Numbers](https://codeforces.com/contest/1465/problem/B) | [GNU C++17 (64)](./codeforces/1465/B.cpp) | `brute force` `math` `number theory` `*1000` | Jan/01/2021 23:48 | 
-896 | [E - Trips](https://codeforces.com/contest/1037/problem/E) | [GNU C++17 (64)](./codeforces/1037/E.cpp) | `graphs` `*2200` | Jan/01/2021 21:19 | 
-895 | [E - Sum Queries?](https://codeforces.com/contest/1217/problem/E) | [GNU C++17 (64)](./codeforces/1217/E.cpp) | `data structures` `greedy` `implementation` `math` `*2300` | Dec/31/2020 12:16 | 
-894 | [E - Apollo versus Pan](https://codeforces.com/contest/1466/problem/E) | [GNU C++17 (64)](./codeforces/1466/E.cpp) | `bitmasks` `brute force` `math` | Dec/31/2020 10:05 | 
-893 | [F - Euclid's nightmare](https://codeforces.com/contest/1466/problem/F) | [GNU C++17](./codeforces/1466/F.cpp) | `dfs and similar` `dsu` `graphs` `greedy` `math` `sortings` | Dec/31/2020 07:40 | 
-892 | [D - 13th Labour of Heracles](https://codeforces.com/contest/1466/problem/D) | [GNU C++17](./codeforces/1466/D.cpp) | `greedy` `sortings` `trees` | Dec/30/2020 23:04 | 
-891 | [C - Canine poetry](https://codeforces.com/contest/1466/problem/C) | [GNU C++17](./codeforces/1466/C.cpp) | `dp` `greedy` `strings` | Dec/30/2020 22:54 | 
-890 | [B - Last minute enhancements](https://codeforces.com/contest/1466/problem/B) | [GNU C++17](./codeforces/1466/B.cpp) | `dp` `greedy` | Dec/30/2020 22:38 | 
-889 | [A - Bovine Dilemma](https://codeforces.com/contest/1466/problem/A) | [GNU C++17](./codeforces/1466/A.cpp) | `brute force` `math` | Dec/30/2020 22:36 | 
-888 | [C - Bipartite Segments](https://codeforces.com/contest/901/problem/C) | [GNU C++17](./codeforces/901/C.cpp) | `binary search` `data structures` `dfs and similar` `dsu` `graphs` `two pointers` `*2300` | Dec/30/2020 14:38 | 
-887 | [D - GCD of Polynomials](https://codeforces.com/contest/902/problem/D) | [GNU C++17](./codeforces/902/D.cpp) | `math` `*2200` | Dec/29/2020 17:20 | 
-886 | [C - Hashing Trees](https://codeforces.com/contest/902/problem/C) | [GNU C++17](./codeforces/902/C.cpp) | `constructive algorithms` `*1500` | Dec/29/2020 17:05 | 
-885 | [B - Coloring a Tree](https://codeforces.com/contest/902/problem/B) | [GNU C++17](./codeforces/902/B.cpp) | `dfs and similar` `dsu` `greedy` `*1200` | Dec/29/2020 16:49 | 
-884 | [A - Visiting a Friend](https://codeforces.com/contest/902/problem/A) | [GNU C++17](./codeforces/902/A.cpp) | `greedy` `implementation` `*1100` | Dec/29/2020 16:45 | 
-883 | [D - Grime Zoo](https://codeforces.com/contest/1465/problem/D) | [GNU C++17](./codeforces/1465/D.cpp) | `dp` `greedy` `implementation` `math` `ternary search` `*2100` | Dec/29/2020 07:50 | 
-882 | [D - Ceil Divisions](https://codeforces.com/contest/1469/problem/D) | [GNU C++17](./codeforces/1469/D.cpp) | `brute force` `constructive algorithms` `math` `number theory` `*1700` | Dec/29/2020 00:21 | 
-881 | [C - Building a Fence](https://codeforces.com/contest/1469/problem/C) | [GNU C++17](./codeforces/1469/C.cpp) | `dp` `greedy` `implementation` `two pointers` `*1600` | Dec/28/2020 23:47 | 
-880 | [B - Red and Blue](https://codeforces.com/contest/1469/problem/B) | [GNU C++17](./codeforces/1469/B.cpp) | `greedy` `*1000` | Dec/28/2020 23:18 | 
-879 | [A - Regular Bracket Sequence](https://codeforces.com/contest/1469/problem/A) | [GNU C++17](./codeforces/1469/A.cpp) | `constructive algorithms` `greedy` `*1000` | Dec/28/2020 23:15 | 
-878 | [E - Caisa and Tree](https://codeforces.com/contest/463/problem/E) | [GNU C++17](./codeforces/463/E.cpp) | `brute force` `dfs and similar` `math` `number theory` `trees` `*2100` | Dec/28/2020 16:08 | 
-877 | [B - Alyona and a tree](https://codeforces.com/contest/739/problem/B) | [GNU C++17](./codeforces/739/B.cpp) | `binary search` `data structures` `dfs and similar` `graphs` `trees` `*1900` | Dec/26/2020 20:44 | 
-876 | [F2 - Wrong Answer on test 233 (Hard Version)](https://codeforces.com/contest/1227/problem/F2) | [GNU C++17](./codeforces/1227/F2.cpp) | `combinatorics` `math` `*2400` | Dec/26/2020 13:54 | 
-875 | [F1 - Wrong Answer on test 233 (Easy Version)](https://codeforces.com/contest/1227/problem/F1) | [GNU C++17](./codeforces/1227/F1.cpp) | `dp` `*2200` | Dec/25/2020 16:41 | 
-874 | [F - Cowslip Collections](https://codeforces.com/contest/645/problem/F) | [GNU C++17](./codeforces/645/F.cpp) | `combinatorics` `math` `number theory` `*2500` | Dec/25/2020 08:06 | 
-873 | [G - Max and Min](https://codeforces.com/contest/566/problem/G) | [GNU C++17](./codeforces/566/G.cpp) | `geometry` `*2500` | Dec/24/2020 17:38 | 
-872 | [E - Maximum Matching](https://codeforces.com/contest/1038/problem/E) | [GNU C++17](./codeforces/1038/E.cpp) | `bitmasks` `brute force` `dfs and similar` `dp` `graphs` `*2400` | Dec/23/2020 23:01 | 
-871 | [I - Noise Level](https://codeforces.com/contest/847/problem/I) | [GNU C++17](./codeforces/847/I.cpp) | `dfs and similar` `implementation` `math` `*1900` | Dec/23/2020 14:19 | 
-870 | [E - Underground Lab](https://codeforces.com/contest/780/problem/E) | [GNU C++17](./codeforces/780/E.cpp) | `constructive algorithms` `dfs and similar` `graphs` `*2100` | Dec/23/2020 13:43 | 
-869 | [G - Allowed Letters](https://codeforces.com/contest/1009/problem/G) | [GNU C++17](./codeforces/1009/G.cpp) | `bitmasks` `flows` `graph matchings` `graphs` `greedy` `*2400` | Dec/23/2020 09:20 | 
-868 | [D - Okabe and City](https://codeforces.com/contest/821/problem/D) | [GNU C++17](./codeforces/821/D.cpp) | `dfs and similar` `graphs` `shortest paths` `*2200` | Dec/23/2020 00:07 | 
-867 | [D - Mr. Kitayuta's Colorful Graph](https://codeforces.com/contest/506/problem/D) | [GNU C++17](./codeforces/506/D.cpp) | `brute force` `dfs and similar` `dsu` `graphs` `*2400` | Dec/22/2020 21:51 | 
-866 | [B - Mr. Kitayuta's Colorful Graph](https://codeforces.com/contest/505/problem/B) | [GNU C++17](./codeforces/505/B.cpp) | `dfs and similar` `dp` `dsu` `graphs` `*1400` | Dec/22/2020 18:22 | 
-865 | [F - The Maximum Subtree](https://codeforces.com/contest/1238/problem/F) | [GNU C++17](./codeforces/1238/F.cpp) | `dfs and similar` `dp` `graphs` `trees` `*2200` | Dec/22/2020 15:05 | 
-864 | [B - Levko and Array](https://codeforces.com/contest/360/problem/B) | [GNU C++17](./codeforces/360/B.cpp) | `binary search` `dp` `*2000` | Dec/21/2020 20:44 | 
-863 | [D - Magic Gems](https://codeforces.com/contest/1117/problem/D) | [GNU C++17](./codeforces/1117/D.cpp) | `dp` `math` `matrices` `*2100` | Dec/21/2020 20:25 | 
-862 | [C - Peaceful Rooks](https://codeforces.com/contest/1465/problem/C) | [GNU C++17](./codeforces/1465/C.cpp) | `dfs and similar` `dsu` `greedy` `implementation` | Dec/21/2020 00:30 | 
-861 | [A - In-game Chat](https://codeforces.com/contest/1465/problem/A) | [GNU C++17](./codeforces/1465/A.cpp) | `implementation` | Dec/20/2020 23:06 | 
-860 | [E - A and B and Lecture Rooms](https://codeforces.com/contest/519/problem/E) | [GNU C++17](./codeforces/519/E.cpp) | `binary search` `data structures` `dfs and similar` `dp` `trees` `*2100` | Dec/20/2020 20:40 | 
-859 | [D - Minimum path](https://codeforces.com/contest/1031/problem/D) | [GNU C++17](./codeforces/1031/D.cpp) | `greedy` `*1900` | Dec/20/2020 02:44 | 
-858 | [E - A Simple Task](https://codeforces.com/contest/558/problem/E) | [GNU C++17](./codeforces/558/E.cpp) | `data structures` `sortings` `strings` `*2300` | Dec/20/2020 00:40 | 
-857 | [D - Glass Half Spilled](https://codeforces.com/contest/1459/problem/D) | [GNU C++17](./codeforces/1459/D.cpp) | `brute force` `dp` `greedy` `*2000` | Dec/19/2020 23:35 | 
-856 | [E - Throne](https://atcoder.jp/contests/abc186/tasks/abc186_e) | [C++ (GCC 9.2.1)](./atcoder/abc186/E.cpp) | `AtCoder` `*500` | Dec/19/2020 21:17 | 
-855 | [C - Unlucky 7](https://atcoder.jp/contests/abc186/tasks/abc186_c) | [C++ (GCC 9.2.1)](./atcoder/abc186/C.cpp) | `AtCoder` `*300` | Dec/19/2020 20:52 | 
-854 | [D - Sum of difference](https://atcoder.jp/contests/abc186/tasks/abc186_d) | [C++ (GCC 9.2.1)](./atcoder/abc186/D.cpp) | `AtCoder` `*400` | Dec/19/2020 20:28 | 
+952 | [A - Simple Math 2](https://atcoder.jp/contests/arc111/tasks/arc111_a) | [C++ (GCC 9.2.1)](./atcoder/arc111/A.cpp) | `AtCoder` `*300` | Jan/09/2021 23:39 | 
+951 | [B - Reversible Cards](https://atcoder.jp/contests/arc111/tasks/arc111_b) | [C++ (GCC 9.2.1)](./atcoder/arc111/B.cpp) | `AtCoder` `*400` | Jan/09/2021 21:51 | 
+950 | [D - Sum of Paths](https://codeforces.com/contest/1467/problem/D) | [GNU C++17 (64)](./codeforces/1467/D.cpp) | `combinatorics` `dp` | Jan/09/2021 01:00 | 
+949 | [C - Three Bags](https://codeforces.com/contest/1467/problem/C) | [GNU C++17 (64)](./codeforces/1467/C.cpp) | `greedy` | Jan/08/2021 23:53 | 
+948 | [A - Wizard of Orz](https://codeforces.com/contest/1467/problem/A) | [GNU C++17 (64)](./codeforces/1467/A.cpp) | `math` | Jan/08/2021 22:44 | 
+947 | [G - Tree Queries](https://codeforces.com/contest/825/problem/G) | [GNU C++17 (64)](./codeforces/825/G.cpp) | `dfs and similar` `graphs` `trees` `*2500` | Jan/08/2021 20:32 | 
+946 | [A - Kirill And The Game](https://codeforces.com/contest/842/problem/A) | [GNU C++17 (64)](./codeforces/842/A.cpp) | `brute force` `two pointers` `*1200` | Jan/08/2021 20:17 | 
+945 | [B - Door Frames](https://codeforces.com/contest/910/problem/B) | [GNU C++17 (64)](./codeforces/910/B.cpp) | `greedy` `implementation` `*1600` | Jan/08/2021 20:16 | 
+944 | [D - Anton and Chess](https://codeforces.com/contest/734/problem/D) | [GNU C++17 (64)](./codeforces/734/D.cpp) | `implementation` `*1700` | Jan/08/2021 17:19 | 
+943 | [D - Restructuring Company](https://codeforces.com/contest/566/problem/D) | [GNU C++17 (64)](./codeforces/566/D.cpp) | `data structures` `dsu` `*1900` | Jan/08/2021 17:17 | 
+942 | [D - Strange Definition](https://codeforces.com/contest/1471/problem/D) | [GNU C++17 (64)](./codeforces/1471/D.cpp) | `bitmasks` `graphs` `hashing` `math` `number theory` `*1900` | Jan/06/2021 09:55 | 
+941 | [D - Strange Housing](https://codeforces.com/contest/1470/problem/D) | [GNU C++17 (64)](./codeforces/1470/D.cpp) | `constructive algorithms` `dfs and similar` `graph matchings` `graphs` `greedy` `*2200` | Jan/06/2021 07:53 | 
+940 | [C - Strange Birthday Party](https://codeforces.com/contest/1471/problem/C) | [GNU C++17 (64)](./codeforces/1471/C.cpp) | `brute force` `greedy` `sortings` `*1300` | Jan/05/2021 22:58 | 
+939 | [B - Strange List](https://codeforces.com/contest/1471/problem/B) | [GNU C++17 (64)](./codeforces/1471/B.cpp) | `brute force` `greedy` `implementation` `math` `*1100` | Jan/05/2021 22:49 | 
+938 | [A - Strange Partition](https://codeforces.com/contest/1471/problem/A) | [GNU C++17 (64)](./codeforces/1471/A.cpp) | `greedy` `math` `number theory` `*900` | Jan/05/2021 22:37 | 
+937 | [D - Riverside Curio](https://codeforces.com/contest/957/problem/D) | [GNU C++17 (64)](./codeforces/957/D.cpp) | `dp` `greedy` `*1700` | Jan/05/2021 17:34 | 
+936 | [C - Three-level Laser](https://codeforces.com/contest/957/problem/C) | [GNU C++17 (64)](./codeforces/957/C.cpp) | `binary search` `greedy` `math` `two pointers` `*1600` | Jan/05/2021 17:14 | 
+935 | [B - Mystical Mosaic](https://codeforces.com/contest/957/problem/B) | [GNU C++17 (64)](./codeforces/957/B.cpp) | `brute force` `greedy` `implementation` `*1300` | Jan/05/2021 14:03 | 
+934 | [A - Tritonic Iridescence](https://codeforces.com/contest/957/problem/A) | [GNU C++17 (64)](./codeforces/957/A.cpp) | `implementation` `*1300` | Jan/05/2021 12:24 | 
+933 | [F - New Year's Puzzle](https://codeforces.com/contest/1472/problem/F) | [GNU C++17 (64)](./codeforces/1472/F.cpp) | `brute force` `dp` `fft` `graph matchings` `greedy` `sortings` `string suffix structures` `*2100` | Jan/05/2021 07:56 | 
+932 | [E - Correct Placement](https://codeforces.com/contest/1472/problem/E) | [GNU C++17 (64)](./codeforces/1472/E.cpp) | `binary search` `data structures` `dp` `sortings` `two pointers` `*1700` | Jan/05/2021 07:32 | 
+931 | [G - Moving to the Capital](https://codeforces.com/contest/1472/problem/G) | [GNU C++17 (64)](./codeforces/1472/G.cpp) | `dfs and similar` `dp` `graphs` `shortest paths` `*2100` | Jan/05/2021 00:32 | 
+930 | [D - Even-Odd Game](https://codeforces.com/contest/1472/problem/D) | [GNU C++17 (64)](./codeforces/1472/D.cpp) | `dp` `games` `greedy` `sortings` `*1200` | Jan/04/2021 22:54 | 
+929 | [C - Long Jumps](https://codeforces.com/contest/1472/problem/C) | [GNU C++17 (64)](./codeforces/1472/C.cpp) | `dp` `graphs` `*1100` | Jan/04/2021 22:46 | 
+928 | [B - Fair Division](https://codeforces.com/contest/1472/problem/B) | [GNU C++17 (64)](./codeforces/1472/B.cpp) | `dp` `greedy` `math` `*800` | Jan/04/2021 22:41 | 
+927 | [A - Cards for Friends](https://codeforces.com/contest/1472/problem/A) | [GNU C++17 (64)](./codeforces/1472/A.cpp) | `greedy` `math` `*800` | Jan/04/2021 22:38 | 
+926 | [E - Army Creation](https://codeforces.com/contest/813/problem/E) | [GNU C++17 (64)](./codeforces/813/E.cpp) | `binary search` `data structures` `*2200` | Jan/04/2021 17:31 | 
+925 | [D - Huge Strings](https://codeforces.com/contest/868/problem/D) | [GNU C++17 (64)](./codeforces/868/D.cpp) | `bitmasks` `brute force` `dp` `implementation` `strings` `*2200` | Jan/04/2021 12:35 | 
+924 | [C - Gotta Go Fast](https://codeforces.com/contest/865/problem/C) | [GNU C++17 (64)](./codeforces/865/C.cpp) | `binary search` `dp` `*2400` | Jan/04/2021 07:59 | 
+923 | [C - Willem, Chtholly and Seniorious](https://codeforces.com/contest/896/problem/C) | [GNU C++17 (64)](./codeforces/896/C.cpp) | `data structures` `probabilities` `*2600` | Jan/04/2021 07:39 | 
+922 | [E - Vasya and Good Sequences](https://codeforces.com/contest/1030/problem/E) | [GNU C++17 (64)](./codeforces/1030/E.cpp) | `bitmasks` `dp` `*2000` | Jan/04/2021 00:12 | 
+921 | [B - Flag of Berland](https://codeforces.com/contest/837/problem/B) | [GNU C++17 (64)](./codeforces/837/B.cpp) | `brute force` `implementation` `*1600` | Jan/04/2021 00:11 | 
+920 | [B - Minimize the error](https://codeforces.com/contest/960/problem/B) | [GNU C++17 (64)](./codeforces/960/B.cpp) | `data structures` `greedy` `sortings` `*1500` | Jan/04/2021 00:10 | 
+919 | [D - Pair Of Lines](https://codeforces.com/contest/961/problem/D) | [GNU C++17 (64)](./codeforces/961/D.cpp) | `geometry` `*2000` | Jan/03/2021 17:42 | 
+918 | [C - One-Based Arithmetic](https://codeforces.com/contest/440/problem/C) | [GNU C++17 (64)](./codeforces/440/C.cpp) | `brute force` `dfs and similar` `divide and conquer` `*1800` | Jan/03/2021 16:50 | 
+917 | [E - Okabe and El Psy Kongroo](https://codeforces.com/contest/821/problem/E) | [GNU C++17 (64)](./codeforces/821/E.cpp) | `dp` `matrices` `*2100` | Jan/03/2021 16:18 | 
+916 | [F - Close Group](https://atcoder.jp/contests/abc187/tasks/abc187_f) | [C++ (GCC 9.2.1)](./atcoder/abc187/F.cpp) | `AtCoder` `*600` | Jan/03/2021 12:48 | 
+915 | [C - Hills](https://codeforces.com/contest/1012/problem/C) | [GNU C++17 (64)](./codeforces/1012/C.cpp) | `dp` `*1900` | Jan/02/2021 23:53 | 
+914 | [A - A Twisty Movement](https://codeforces.com/contest/933/problem/A) | [GNU C++17 (64)](./codeforces/933/A.cpp) | `dp` `*1800` | Jan/02/2021 23:23 | 
+913 | [A - Five Dimensional Points](https://codeforces.com/contest/850/problem/A) | [GNU C++17 (64)](./codeforces/850/A.cpp) | `brute force` `geometry` `math` `*1700` | Jan/02/2021 22:48 | 
+912 | [C - Useful Decomposition](https://codeforces.com/contest/981/problem/C) | [GNU C++17 (64)](./codeforces/981/C.cpp) | `implementation` `trees` `*1400` | Jan/02/2021 22:21 | 
+911 | [B - The Bits](https://codeforces.com/contest/1017/problem/B) | [GNU C++17 (64)](./codeforces/1017/B.cpp) | `implementation` `math` `*1200` | Jan/02/2021 22:12 | 
+910 | [E - Through Path](https://atcoder.jp/contests/abc187/tasks/abc187_e) | [C++ (GCC 9.2.1)](./atcoder/abc187/E.cpp) | `AtCoder` `*500` | Jan/02/2021 21:21 | 
+909 | [D - Choose Me](https://atcoder.jp/contests/abc187/tasks/abc187_d) | [C++ (GCC 9.2.1)](./atcoder/abc187/D.cpp) | `AtCoder` `*400` | Jan/02/2021 20:27 | 
+908 | [C - 1-SAT](https://atcoder.jp/contests/abc187/tasks/abc187_c) | [C++ (GCC 9.2.1)](./atcoder/abc187/C.cpp) | `AtCoder` `*300` | Jan/02/2021 20:08 | 
+907 | [B - Gentle Pairs](https://atcoder.jp/contests/abc187/tasks/abc187_b) | [C++ (GCC 9.2.1)](./atcoder/abc187/B.cpp) | `AtCoder` `*200` | Jan/02/2021 20:03 | 
+906 | [A - Large Digits](https://atcoder.jp/contests/abc187/tasks/abc187_a) | [C++ (GCC 9.2.1)](./atcoder/abc187/A.cpp) | `AtCoder` `*100` | Jan/02/2021 20:01 | 
+905 | [C - Naming Company](https://codeforces.com/contest/794/problem/C) | [GNU C++17 (64)](./codeforces/794/C.cpp) | `games` `greedy` `sortings` `*1800` | Jan/02/2021 16:03 | 
+904 | [D - Ability To Convert](https://codeforces.com/contest/758/problem/D) | [GNU C++17 (64)](./codeforces/758/D.cpp) | `constructive algorithms` `dp` `greedy` `math` `strings` `*2000` | Jan/02/2021 16:03 | 
+903 | [E - Analysis of Pathes in Functional Graph](https://codeforces.com/contest/702/problem/E) | [GNU C++17 (64)](./codeforces/702/E.cpp) | `data structures` `graphs` `*2100` | Jan/02/2021 16:03 | 
+902 | [B - Queries about less or equal elements](https://codeforces.com/contest/600/problem/B) | [GNU C++17 (64)](./codeforces/600/B.cpp) | `binary search` `data structures` `sortings` `two pointers` `*1300` | Jan/02/2021 16:02 | 
+901 | [C - Party Lemonade](https://codeforces.com/contest/913/problem/C) | [GNU C++17 (64)](./codeforces/913/C.cpp) | `bitmasks` `dp` `greedy` `*1600` | Jan/02/2021 16:02 | 
+900 | [A - Dreamoon and Stairs](https://codeforces.com/contest/476/problem/A) | [GNU C++17 (64)](./codeforces/476/A.cpp) | `implementation` `math` `*1000` | Jan/02/2021 16:01 | 
+899 | [G - Two-Paths](https://codeforces.com/contest/1000/problem/G) | [GNU C++17 (64)](./codeforces/1000/G.cpp) | `data structures` `dp` `trees` `*2700` | Jan/02/2021 01:16 | 
+898 | [B - Fair Numbers](https://codeforces.com/contest/1465/problem/B) | [GNU C++17 (64)](./codeforces/1465/B.cpp) | `brute force` `math` `number theory` `*1000` | Jan/01/2021 23:48 | 
+897 | [E - Trips](https://codeforces.com/contest/1037/problem/E) | [GNU C++17 (64)](./codeforces/1037/E.cpp) | `graphs` `*2200` | Jan/01/2021 21:19 | 
+896 | [E - Sum Queries?](https://codeforces.com/contest/1217/problem/E) | [GNU C++17 (64)](./codeforces/1217/E.cpp) | `data structures` `greedy` `implementation` `math` `*2300` | Dec/31/2020 12:16 | 
+895 | [E - Apollo versus Pan](https://codeforces.com/contest/1466/problem/E) | [GNU C++17 (64)](./codeforces/1466/E.cpp) | `bitmasks` `brute force` `math` | Dec/31/2020 10:05 | 
+894 | [F - Euclid's nightmare](https://codeforces.com/contest/1466/problem/F) | [GNU C++17](./codeforces/1466/F.cpp) | `dfs and similar` `dsu` `graphs` `greedy` `math` `sortings` | Dec/31/2020 07:40 | 
+893 | [D - 13th Labour of Heracles](https://codeforces.com/contest/1466/problem/D) | [GNU C++17](./codeforces/1466/D.cpp) | `greedy` `sortings` `trees` | Dec/30/2020 23:04 | 
+892 | [C - Canine poetry](https://codeforces.com/contest/1466/problem/C) | [GNU C++17](./codeforces/1466/C.cpp) | `dp` `greedy` `strings` | Dec/30/2020 22:54 | 
+891 | [B - Last minute enhancements](https://codeforces.com/contest/1466/problem/B) | [GNU C++17](./codeforces/1466/B.cpp) | `dp` `greedy` | Dec/30/2020 22:38 | 
+890 | [A - Bovine Dilemma](https://codeforces.com/contest/1466/problem/A) | [GNU C++17](./codeforces/1466/A.cpp) | `brute force` `math` | Dec/30/2020 22:36 | 
+889 | [C - Bipartite Segments](https://codeforces.com/contest/901/problem/C) | [GNU C++17](./codeforces/901/C.cpp) | `binary search` `data structures` `dfs and similar` `dsu` `graphs` `two pointers` `*2300` | Dec/30/2020 14:38 | 
+888 | [D - GCD of Polynomials](https://codeforces.com/contest/902/problem/D) | [GNU C++17](./codeforces/902/D.cpp) | `math` `*2200` | Dec/29/2020 17:20 | 
+887 | [C - Hashing Trees](https://codeforces.com/contest/902/problem/C) | [GNU C++17](./codeforces/902/C.cpp) | `constructive algorithms` `*1500` | Dec/29/2020 17:05 | 
+886 | [B - Coloring a Tree](https://codeforces.com/contest/902/problem/B) | [GNU C++17](./codeforces/902/B.cpp) | `dfs and similar` `dsu` `greedy` `*1200` | Dec/29/2020 16:49 | 
+885 | [A - Visiting a Friend](https://codeforces.com/contest/902/problem/A) | [GNU C++17](./codeforces/902/A.cpp) | `greedy` `implementation` `*1100` | Dec/29/2020 16:45 | 
+884 | [D - Grime Zoo](https://codeforces.com/contest/1465/problem/D) | [GNU C++17](./codeforces/1465/D.cpp) | `dp` `greedy` `implementation` `math` `ternary search` `*2100` | Dec/29/2020 07:50 | 
+883 | [D - Ceil Divisions](https://codeforces.com/contest/1469/problem/D) | [GNU C++17](./codeforces/1469/D.cpp) | `brute force` `constructive algorithms` `math` `number theory` `*1700` | Dec/29/2020 00:21 | 
+882 | [C - Building a Fence](https://codeforces.com/contest/1469/problem/C) | [GNU C++17](./codeforces/1469/C.cpp) | `dp` `greedy` `implementation` `two pointers` `*1600` | Dec/28/2020 23:47 | 
+881 | [B - Red and Blue](https://codeforces.com/contest/1469/problem/B) | [GNU C++17](./codeforces/1469/B.cpp) | `greedy` `*1000` | Dec/28/2020 23:18 | 
+880 | [A - Regular Bracket Sequence](https://codeforces.com/contest/1469/problem/A) | [GNU C++17](./codeforces/1469/A.cpp) | `constructive algorithms` `greedy` `*1000` | Dec/28/2020 23:15 | 
+879 | [E - Caisa and Tree](https://codeforces.com/contest/463/problem/E) | [GNU C++17](./codeforces/463/E.cpp) | `brute force` `dfs and similar` `math` `number theory` `trees` `*2100` | Dec/28/2020 16:08 | 
+878 | [B - Alyona and a tree](https://codeforces.com/contest/739/problem/B) | [GNU C++17](./codeforces/739/B.cpp) | `binary search` `data structures` `dfs and similar` `graphs` `trees` `*1900` | Dec/26/2020 20:44 | 
+877 | [F2 - Wrong Answer on test 233 (Hard Version)](https://codeforces.com/contest/1227/problem/F2) | [GNU C++17](./codeforces/1227/F2.cpp) | `combinatorics` `math` `*2400` | Dec/26/2020 13:54 | 
+876 | [F1 - Wrong Answer on test 233 (Easy Version)](https://codeforces.com/contest/1227/problem/F1) | [GNU C++17](./codeforces/1227/F1.cpp) | `dp` `*2200` | Dec/25/2020 16:41 | 
+875 | [F - Cowslip Collections](https://codeforces.com/contest/645/problem/F) | [GNU C++17](./codeforces/645/F.cpp) | `combinatorics` `math` `number theory` `*2500` | Dec/25/2020 08:06 | 
+874 | [G - Max and Min](https://codeforces.com/contest/566/problem/G) | [GNU C++17](./codeforces/566/G.cpp) | `geometry` `*2500` | Dec/24/2020 17:38 | 
+873 | [E - Maximum Matching](https://codeforces.com/contest/1038/problem/E) | [GNU C++17](./codeforces/1038/E.cpp) | `bitmasks` `brute force` `dfs and similar` `dp` `graphs` `*2400` | Dec/23/2020 23:01 | 
+872 | [I - Noise Level](https://codeforces.com/contest/847/problem/I) | [GNU C++17](./codeforces/847/I.cpp) | `dfs and similar` `implementation` `math` `*1900` | Dec/23/2020 14:19 | 
+871 | [E - Underground Lab](https://codeforces.com/contest/780/problem/E) | [GNU C++17](./codeforces/780/E.cpp) | `constructive algorithms` `dfs and similar` `graphs` `*2100` | Dec/23/2020 13:43 | 
+870 | [G - Allowed Letters](https://codeforces.com/contest/1009/problem/G) | [GNU C++17](./codeforces/1009/G.cpp) | `bitmasks` `flows` `graph matchings` `graphs` `greedy` `*2400` | Dec/23/2020 09:20 | 
+869 | [D - Okabe and City](https://codeforces.com/contest/821/problem/D) | [GNU C++17](./codeforces/821/D.cpp) | `dfs and similar` `graphs` `shortest paths` `*2200` | Dec/23/2020 00:07 | 
+868 | [D - Mr. Kitayuta's Colorful Graph](https://codeforces.com/contest/506/problem/D) | [GNU C++17](./codeforces/506/D.cpp) | `brute force` `dfs and similar` `dsu` `graphs` `*2400` | Dec/22/2020 21:51 | 
+867 | [B - Mr. Kitayuta's Colorful Graph](https://codeforces.com/contest/505/problem/B) | [GNU C++17](./codeforces/505/B.cpp) | `dfs and similar` `dp` `dsu` `graphs` `*1400` | Dec/22/2020 18:22 | 
+866 | [F - The Maximum Subtree](https://codeforces.com/contest/1238/problem/F) | [GNU C++17](./codeforces/1238/F.cpp) | `dfs and similar` `dp` `graphs` `trees` `*2200` | Dec/22/2020 15:05 | 
+865 | [B - Levko and Array](https://codeforces.com/contest/360/problem/B) | [GNU C++17](./codeforces/360/B.cpp) | `binary search` `dp` `*2000` | Dec/21/2020 20:44 | 
+864 | [D - Magic Gems](https://codeforces.com/contest/1117/problem/D) | [GNU C++17](./codeforces/1117/D.cpp) | `dp` `math` `matrices` `*2100` | Dec/21/2020 20:25 | 
+863 | [C - Peaceful Rooks](https://codeforces.com/contest/1465/problem/C) | [GNU C++17](./codeforces/1465/C.cpp) | `dfs and similar` `dsu` `greedy` `implementation` | Dec/21/2020 00:30 | 
+862 | [A - In-game Chat](https://codeforces.com/contest/1465/problem/A) | [GNU C++17](./codeforces/1465/A.cpp) | `implementation` | Dec/20/2020 23:06 | 
+861 | [E - A and B and Lecture Rooms](https://codeforces.com/contest/519/problem/E) | [GNU C++17](./codeforces/519/E.cpp) | `binary search` `data structures` `dfs and similar` `dp` `trees` `*2100` | Dec/20/2020 20:40 | 
+860 | [D - Minimum path](https://codeforces.com/contest/1031/problem/D) | [GNU C++17](./codeforces/1031/D.cpp) | `greedy` `*1900` | Dec/20/2020 02:44 | 
+859 | [E - A Simple Task](https://codeforces.com/contest/558/problem/E) | [GNU C++17](./codeforces/558/E.cpp) | `data structures` `sortings` `strings` `*2300` | Dec/20/2020 00:40 | 
+858 | [D - Glass Half Spilled](https://codeforces.com/contest/1459/problem/D) | [GNU C++17](./codeforces/1459/D.cpp) | `brute force` `dp` `greedy` `*2000` | Dec/19/2020 23:35 | 
+857 | [E - Throne](https://atcoder.jp/contests/abc186/tasks/abc186_e) | [C++ (GCC 9.2.1)](./atcoder/abc186/E.cpp) | `AtCoder` `*500` | Dec/19/2020 21:17 | 
+856 | [C - Unlucky 7](https://atcoder.jp/contests/abc186/tasks/abc186_c) | [C++ (GCC 9.2.1)](./atcoder/abc186/C.cpp) | `AtCoder` `*300` | Dec/19/2020 20:52 | 
+855 | [D - Sum of difference](https://atcoder.jp/contests/abc186/tasks/abc186_d) | [C++ (GCC 9.2.1)](./atcoder/abc186/D.cpp) | `AtCoder` `*400` | Dec/19/2020 20:28 | 
+854 | [B - Blocks on Grid](https://atcoder.jp/contests/abc186/tasks/abc186_b) | [C++ (GCC 9.2.1)](./atcoder/abc186/B.cpp) | `AtCoder` `*200` | Dec/19/2020 20:02 | 
 853 | [C - Row GCD](https://codeforces.com/contest/1459/problem/C) | [GNU C++17](./codeforces/1459/C.cpp) | `math` `number theory` `*1600` | Dec/19/2020 18:24 | 
 852 | [B - Move and Turn](https://codeforces.com/contest/1459/problem/B) | [GNU C++14](./codeforces/1459/B.cpp) | `dp` `math` `*1300` | Dec/19/2020 18:15 | 
 851 | [A - Red-Blue Shuffle](https://codeforces.com/contest/1459/problem/A) | [GNU C++14](./codeforces/1459/A.cpp) | `math` `probabilities` `*800` | Dec/19/2020 17:54 | 
