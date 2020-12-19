@@ -1,4 +1,21 @@
 {
+  "CF101783106": {
+    "contest_id": 1459,
+    "language": "GNU C++17",
+    "path": "codeforces/1459/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Glass Half Spilled",
+    "problem_url": "https://codeforces.com/contest/1459/problem/D",
+    "submission_id": "CF101783106",
+    "submission_url": "https://codeforces.com/contest/1459/submission/101783106",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "Dec/19/2020 23:35"
+  },
   "CF101788301": {
     "contest_id": 558,
     "language": "GNU C++17",
