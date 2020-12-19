@@ -1,4 +1,19 @@
 {
+  "CF101798061": {
+    "contest_id": 1031,
+    "language": "GNU C++17",
+    "path": "codeforces/1031/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Minimum path",
+    "problem_url": "https://codeforces.com/contest/1031/problem/D",
+    "submission_id": "CF101798061",
+    "submission_url": "https://codeforces.com/contest/1031/submission/101798061",
+    "tags": [
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "Dec/20/2020 02:44"
+  },
   "CF101848208": {
     "contest_id": 519,
     "language": "GNU C++17",
