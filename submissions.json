@@ -1840,6 +1840,23 @@
     ],
     "timestamp": "Dec/21/2020 20:44"
   },
+  "CF102058159": {
+    "contest_id": 821,
+    "language": "GNU C++17",
+    "path": "codeforces/821/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Okabe and City",
+    "problem_url": "https://codeforces.com/contest/821/problem/D",
+    "submission_id": "CF102058159",
+    "submission_url": "https://codeforces.com/contest/821/submission/102058159",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "shortest paths",
+      "*2200"
+    ],
+    "timestamp": "Dec/23/2020 00:07"
+  },
   "CF73935202": {
     "contest_id": 4,
     "language": "GNU C++17",
