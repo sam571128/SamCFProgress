@@ -1840,6 +1840,24 @@
     ],
     "timestamp": "Dec/21/2020 20:44"
   },
+  "CF102031516": {
+    "contest_id": 505,
+    "language": "GNU C++17",
+    "path": "codeforces/505/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Mr. Kitayuta's Colorful Graph",
+    "problem_url": "https://codeforces.com/contest/505/problem/B",
+    "submission_id": "CF102031516",
+    "submission_url": "https://codeforces.com/contest/505/submission/102031516",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "graphs",
+      "*1400"
+    ],
+    "timestamp": "Dec/22/2020 18:22"
+  },
   "CF102046584": {
     "contest_id": 506,
     "language": "GNU C++17",
