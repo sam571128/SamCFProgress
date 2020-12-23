@@ -57,7 +57,13 @@ signed main(){
 	for(int i = 0;i < edges.size();i++){
 		auto [u,v,w,can] = edges[i];
 		if(u==v) continue;
-		 get(i);
+		degsum -= (deg[u]&1)+(deg[v]&1);
+		deg[u]--, deg[v]--;
+		degsum += (deg[u]&1)+(deg[v]&1);
+		if(degsum/2 <= 1) get(i);
+		degsum -= (deg[u]&1)+(deg[v]&1);
+		deg[u]++, deg[v]++;
+		degsum += (deg[u]&1)+(deg[v]&1);
 	}
 	cout << ans << "\n";
 }

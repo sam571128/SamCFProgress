@@ -1911,6 +1911,25 @@
     ],
     "timestamp": "Dec/23/2020 00:07"
   },
+  "CF102104445": {
+    "contest_id": 1038,
+    "language": "GNU C++17",
+    "path": "codeforces/1038/E.cpp",
+    "problem_index": "E",
+    "problem_name": "Maximum Matching",
+    "problem_url": "https://codeforces.com/contest/1038/problem/E",
+    "submission_id": "CF102104445",
+    "submission_url": "https://codeforces.com/contest/1038/submission/102104445",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "*2400"
+    ],
+    "timestamp": "Dec/23/2020 17:28"
+  },
   "CF102128726": {
     "contest_id": 1038,
     "language": "GNU C++17",
