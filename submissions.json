@@ -1911,6 +1911,23 @@
     ],
     "timestamp": "Dec/23/2020 00:07"
   },
+  "CF102092813": {
+    "contest_id": 847,
+    "language": "GNU C++17",
+    "path": "codeforces/847/I.cpp",
+    "problem_index": "I",
+    "problem_name": "Noise Level",
+    "problem_url": "https://codeforces.com/contest/847/problem/I",
+    "submission_id": "CF102092813",
+    "submission_url": "https://codeforces.com/contest/847/submission/102092813",
+    "tags": [
+      "dfs and similar",
+      "implementation",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "Dec/23/2020 14:19"
+  },
   "CF102104445": {
     "contest_id": 1038,
     "language": "GNU C++17",
