@@ -1911,6 +1911,25 @@
     ],
     "timestamp": "Dec/23/2020 00:07"
   },
+  "CF102082769": {
+    "contest_id": 1009,
+    "language": "GNU C++17",
+    "path": "codeforces/1009/G.cpp",
+    "problem_index": "G",
+    "problem_name": "Allowed Letters",
+    "problem_url": "https://codeforces.com/contest/1009/problem/G",
+    "submission_id": "CF102082769",
+    "submission_url": "https://codeforces.com/contest/1009/submission/102082769",
+    "tags": [
+      "bitmasks",
+      "flows",
+      "graph matchings",
+      "graphs",
+      "greedy",
+      "*2400"
+    ],
+    "timestamp": "Dec/23/2020 09:20"
+  },
   "CF102090891": {
     "contest_id": 780,
     "language": "GNU C++17",
