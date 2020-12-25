@@ -12,7 +12,8 @@ A repository to keep track of problem solving practise, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-917 | [F1 - Wrong Answer on test 233 (Easy Version)](https://codeforces.com/contest/1227/problem/F1) | [GNU C++17](./codeforces/1227/F1.cpp) | `dp` `*2200` | Dec/25/2020 16:41 | 
+918 | [F1 - Wrong Answer on test 233 (Easy Version)](https://codeforces.com/contest/1227/problem/F1) | [GNU C++17](./codeforces/1227/F1.cpp) | `dp` `*2200` | Dec/25/2020 16:41 | 
+917 | [F - Cowslip Collections](https://codeforces.com/contest/645/problem/F) | [GNU C++17](./codeforces/645/F.cpp) | `combinatorics` `math` `number theory` `*2500` | Dec/25/2020 08:06 | 
 916 | [D - Okabe and City](https://codeforces.com/contest/821/problem/D) | [GNU C++17](./codeforces/821/D.cpp) | `dfs and similar` `graphs` `shortest paths` `*2200` | Dec/23/2020 00:07 | 
 915 | [D - Mr. Kitayuta's Colorful Graph](https://codeforces.com/contest/506/problem/D) | [GNU C++17](./codeforces/506/D.cpp) | `brute force` `dfs and similar` `dsu` `graphs` `*2400` | Dec/22/2020 21:51 | 
 914 | [B - Mr. Kitayuta's Colorful Graph](https://codeforces.com/contest/505/problem/B) | [GNU C++17](./codeforces/505/B.cpp) | `dfs and similar` `dp` `dsu` `graphs` `*1400` | Dec/22/2020 18:22 | 
