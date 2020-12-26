@@ -2049,6 +2049,22 @@
     ],
     "timestamp": "Dec/25/2020 16:41"
   },
+  "CF102368290": {
+    "contest_id": 1227,
+    "language": "GNU C++17",
+    "path": "codeforces/1227/F2.cpp",
+    "problem_index": "F2",
+    "problem_name": "Wrong Answer on test 233 (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1227/problem/F2",
+    "submission_id": "CF102368290",
+    "submission_url": "https://codeforces.com/contest/1227/submission/102368290",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "Dec/26/2020 13:54"
+  },
   "CF73935202": {
     "contest_id": 4,
     "language": "GNU C++17",
