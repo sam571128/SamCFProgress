@@ -2084,6 +2084,25 @@
     ],
     "timestamp": "Dec/26/2020 20:44"
   },
+  "CF102648235": {
+    "contest_id": 1465,
+    "language": "GNU C++17",
+    "path": "codeforces/1465/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Grime Zoo",
+    "problem_url": "https://codeforces.com/contest/1465/problem/D",
+    "submission_id": "CF102648235",
+    "submission_url": "https://codeforces.com/contest/1465/submission/102648235",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "math",
+      "ternary search",
+      "*2100"
+    ],
+    "timestamp": "Dec/29/2020 07:50"
+  },
   "CF102671112": {
     "contest_id": 902,
     "language": "GNU C++17",
