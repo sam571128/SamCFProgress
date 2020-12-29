@@ -2084,6 +2084,21 @@
     ],
     "timestamp": "Dec/26/2020 20:44"
   },
+  "CF102673582": {
+    "contest_id": 902,
+    "language": "GNU C++17",
+    "path": "codeforces/902/D.cpp",
+    "problem_index": "D",
+    "problem_name": "GCD of Polynomials",
+    "problem_url": "https://codeforces.com/contest/902/problem/D",
+    "submission_id": "CF102673582",
+    "submission_url": "https://codeforces.com/contest/902/submission/102673582",
+    "tags": [
+      "math",
+      "*2200"
+    ],
+    "timestamp": "Dec/29/2020 17:20"
+  },
   "CF102741163": {
     "contest_id": 901,
     "language": "GNU C++17",
