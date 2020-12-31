@@ -2084,6 +2084,24 @@
     ],
     "timestamp": "Dec/26/2020 20:44"
   },
+  "CF102879958": {
+    "contest_id": 1217,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1217/E.cpp",
+    "problem_index": "E",
+    "problem_name": "Sum Queries?",
+    "problem_url": "https://codeforces.com/contest/1217/problem/E",
+    "submission_id": "CF102879958",
+    "submission_url": "https://codeforces.com/contest/1217/submission/102879958",
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "math",
+      "*2300"
+    ],
+    "timestamp": "Dec/31/2020 12:16"
+  },
   "CF73935202": {
     "contest_id": 4,
     "language": "GNU C++17",
