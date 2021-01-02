@@ -1,4 +1,20 @@
 {
+  "AC19117310": {
+    "contest_id": "abc187",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc187/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Large Digits",
+    "problem_url": "https://atcoder.jp/contests/abc187/tasks/abc187_a",
+    "submission_id": "AC19117310",
+    "submission_url": "https://atcoder.jp/contests/abc187/submissions/19117310",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/02/2021 20:01"
+  },
   "AC19121307": {
     "contest_id": "abc187",
     "language": "C++ (GCC 9.2.1)",
