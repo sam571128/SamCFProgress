@@ -2403,6 +2403,21 @@
     ],
     "timestamp": "Dec/31/2020 12:16"
   },
+  "CF103042996": {
+    "contest_id": 1012,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1012/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Hills",
+    "problem_url": "https://codeforces.com/contest/1012/problem/C",
+    "submission_id": "CF103042996",
+    "submission_url": "https://codeforces.com/contest/1012/submission/103042996",
+    "tags": [
+      "dp",
+      "*1900"
+    ],
+    "timestamp": "Jan/02/2021 23:53"
+  },
   "CF103079345": {
     "contest_id": 821,
     "language": "GNU C++17 (64)",
