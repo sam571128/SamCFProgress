@@ -1,4 +1,20 @@
 {
+  "AC19136431": {
+    "contest_id": "abc187",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc187/D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Choose Me",
+    "problem_url": "https://atcoder.jp/contests/abc187/tasks/abc187_d",
+    "submission_id": "AC19136431",
+    "submission_url": "https://atcoder.jp/contests/abc187/submissions/19136431",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/02/2021 20:27"
+  },
   "AC19155597": {
     "contest_id": "abc187",
     "language": "C++ (GCC 9.2.1)",
