@@ -2403,6 +2403,23 @@
     ],
     "timestamp": "Dec/31/2020 12:16"
   },
+  "CF103011430": {
+    "contest_id": 794,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/794/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Naming Company",
+    "problem_url": "https://codeforces.com/contest/794/problem/C",
+    "submission_id": "CF103011430",
+    "submission_url": "https://codeforces.com/contest/794/submission/103011430",
+    "tags": [
+      "games",
+      "greedy",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "Jan/02/2021 16:03"
+  },
   "CF103011459": {
     "contest_id": 758,
     "language": "GNU C++17 (64)",
