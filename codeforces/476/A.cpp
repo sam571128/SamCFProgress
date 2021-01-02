@@ -1,29 +1,24 @@
 #include <bits/stdc++.h>
-#include <cmath>
 
-#define ll long long
-#define fastio ios_base::sync_with_stdio(0);cin.tie(0);
-#define push push_back
-#define pop pop_front
-#define cini(i) int i;cin>>i;
-#define cinll(l) int l;cin >> l;
-#define cins(s) string s;cin >> s;
-#define intz(z) int z = 0;
+#define int long long
+#define fastio ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+
 using namespace std;
-typedef vector<int> vi;
-typedef vector<string> vs;
 
-int main(){
+//Check if any number is multiple of m between ceil(n/2) ~ n
+//n -> n/2
+//n
+//n/2+1 => all 2 one 1 
+//n/2 => all 2
+signed main(){
 	fastio
-	int a,b;
-	cin >> a >> b;
-	int ma = a,mi = ceil(a/2.0), temp = b;
-	while(b<mi){
-		b+=temp;
+	int n,m;
+	cin >> n >> m;
+	for(int i = (n+1)/2;i <= n;i++){
+		if(i%m==0){
+			cout << i << "\n";
+			return 0;
+		}
 	}
-	if(b<=ma&&b>=mi){
-		cout << b;
-	}else{
-		cout << -1;
-	}
+	cout << -1 << "\n";
 }
