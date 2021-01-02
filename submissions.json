@@ -2403,6 +2403,21 @@
     ],
     "timestamp": "Dec/31/2020 12:16"
   },
+  "CF103040652": {
+    "contest_id": 933,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/933/A.cpp",
+    "problem_index": "A",
+    "problem_name": "A Twisty Movement",
+    "problem_url": "https://codeforces.com/contest/933/problem/A",
+    "submission_id": "CF103040652",
+    "submission_url": "https://codeforces.com/contest/933/submission/103040652",
+    "tags": [
+      "dp",
+      "*1800"
+    ],
+    "timestamp": "Jan/02/2021 23:23"
+  },
   "CF103042996": {
     "contest_id": 1012,
     "language": "GNU C++17 (64)",
