@@ -2403,6 +2403,22 @@
     ],
     "timestamp": "Dec/31/2020 12:16"
   },
+  "CF103134696": {
+    "contest_id": 896,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/896/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Willem, Chtholly and Seniorious",
+    "problem_url": "https://codeforces.com/contest/896/problem/C",
+    "submission_id": "CF103134696",
+    "submission_url": "https://codeforces.com/contest/896/submission/103134696",
+    "tags": [
+      "data structures",
+      "probabilities",
+      "*2600"
+    ],
+    "timestamp": "Jan/04/2021 07:39"
+  },
   "CF103135154": {
     "contest_id": 865,
     "language": "GNU C++17 (64)",
