@@ -2403,6 +2403,25 @@
     ],
     "timestamp": "Dec/31/2020 12:16"
   },
+  "CF103142159": {
+    "contest_id": 868,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/868/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Huge Strings",
+    "problem_url": "https://codeforces.com/contest/868/problem/D",
+    "submission_id": "CF103142159",
+    "submission_url": "https://codeforces.com/contest/868/submission/103142159",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "implementation",
+      "strings",
+      "*2200"
+    ],
+    "timestamp": "Jan/04/2021 12:35"
+  },
   "CF103158637": {
     "contest_id": 813,
     "language": "GNU C++17 (64)",
