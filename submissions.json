@@ -2403,6 +2403,24 @@
     ],
     "timestamp": "Dec/31/2020 12:16"
   },
+  "CF103300699": {
+    "contest_id": 1472,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1472/G.cpp",
+    "problem_index": "G",
+    "problem_name": "Moving to the Capital",
+    "problem_url": "https://codeforces.com/contest/1472/problem/G",
+    "submission_id": "CF103300699",
+    "submission_url": "https://codeforces.com/contest/1472/submission/103300699",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "shortest paths",
+      "*2100"
+    ],
+    "timestamp": "Jan/05/2021 00:32"
+  },
   "CF103331861": {
     "contest_id": 1472,
     "language": "GNU C++17 (64)",
