@@ -2403,6 +2403,23 @@
     ],
     "timestamp": "Dec/31/2020 12:16"
   },
+  "CF103391667": {
+    "contest_id": 1471,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1471/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Strange Partition",
+    "problem_url": "https://codeforces.com/contest/1471/problem/A",
+    "submission_id": "CF103391667",
+    "submission_url": "https://codeforces.com/contest/1471/submission/103391667",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Jan/05/2021 22:37"
+  },
   "CF103402490": {
     "contest_id": 1471,
     "language": "GNU C++17 (64)",
