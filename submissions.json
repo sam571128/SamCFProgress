@@ -2403,6 +2403,22 @@
     ],
     "timestamp": "Dec/31/2020 12:16"
   },
+  "CF103712922": {
+    "contest_id": 910,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/910/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Door Frames",
+    "problem_url": "https://codeforces.com/contest/910/problem/B",
+    "submission_id": "CF103712922",
+    "submission_url": "https://codeforces.com/contest/910/submission/103712922",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Jan/08/2021 20:16"
+  },
   "CF103712978": {
     "contest_id": 842,
     "language": "GNU C++17 (64)",
