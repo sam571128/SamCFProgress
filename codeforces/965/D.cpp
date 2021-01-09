@@ -1,31 +1,27 @@
 #include <bits/stdc++.h>
 
-#define ll long long
-#define fastio ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
-using namespace std;
-typedef vector<int> vi;
-typedef vector<ll int> vll;
-typedef vector<string> vs;
-typedef vector< pair<int,int> > vpi;
+#define int long long
+#define fastio ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
 
-int main(){
+using namespace std;
+
+signed main(){
 	fastio
 	int w,l;
 	cin >> w >> l;
-	vector<int> a(w+1);
-	a[0] = a[w] = 1e9+5;
+	int arr[w+1];
+	arr[0] = arr[w] = 1e18;
 	for(int i = 1;i < w;i++){
-		cin >> a[i];
+		cin >> arr[i];
 	}
-	int answer = 1e9+5;
-	int sum = 0;
+	int ans = 1e18, sum = 0;
 	for(int i = 0;i < l;i++){
-		sum += a[i];
+		sum += arr[i];
 	}
-	answer = min(sum,answer);
-	for(int i = l;i < w; ++i){
-		sum += a[i] - a[i-l];
-		answer = min(answer,sum);
+	ans = min(sum,ans);
+	for(int i = l;i < w; i++){
+		sum += arr[i] - arr[i-l];
+		ans = min(ans,sum);
 	}
-	cout << answer << "\n";
+	cout << ans << "\n";
 }
