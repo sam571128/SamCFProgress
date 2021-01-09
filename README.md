@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1054 | [F - Level Generation](https://codeforces.com/contest/818/problem/F) | [GNU C++17 (64)](./codeforces/818/F.cpp) | `binary search` `math` `ternary search` `*2100` | Jan/09/2021 23:56 | 
-1053 | [A - Simple Math 2](https://atcoder.jp/contests/arc111/tasks/arc111_a) | [C++ (GCC 9.2.1)](./atcoder/arc111/A.cpp) | `AtCoder` `*300` | Jan/09/2021 23:39 | 
-1052 | [D - Single-use Stones](https://codeforces.com/contest/965/problem/D) | [GNU C++17 (64)](./codeforces/965/D.cpp) | `binary search` `flows` `greedy` `two pointers` `*1900` | Jan/09/2021 23:15 | 
-1051 | [B - Marlin](https://codeforces.com/contest/980/problem/B) | [GNU C++17 (64)](./codeforces/980/B.cpp) | `constructive algorithms` `*1600` | Jan/09/2021 23:10 | 
+1055 | [F - Level Generation](https://codeforces.com/contest/818/problem/F) | [GNU C++17 (64)](./codeforces/818/F.cpp) | `binary search` `math` `ternary search` `*2100` | Jan/09/2021 23:56 | 
+1054 | [A - Simple Math 2](https://atcoder.jp/contests/arc111/tasks/arc111_a) | [C++ (GCC 9.2.1)](./atcoder/arc111/A.cpp) | `AtCoder` `*300` | Jan/09/2021 23:39 | 
+1053 | [D - Single-use Stones](https://codeforces.com/contest/965/problem/D) | [GNU C++17 (64)](./codeforces/965/D.cpp) | `binary search` `flows` `greedy` `two pointers` `*1900` | Jan/09/2021 23:15 | 
+1052 | [B - Marlin](https://codeforces.com/contest/980/problem/B) | [GNU C++17 (64)](./codeforces/980/B.cpp) | `constructive algorithms` `*1600` | Jan/09/2021 23:10 | 
+1051 | [B - Switches and Lamps](https://codeforces.com/contest/985/problem/B) | [GNU C++17 (64)](./codeforces/985/B.cpp) | `implementation` `*1200` | Jan/09/2021 22:27 | 
 1050 | [B - Reversible Cards](https://atcoder.jp/contests/arc111/tasks/arc111_b) | [C++ (GCC 9.2.1)](./atcoder/arc111/B.cpp) | `AtCoder` `*400` | Jan/09/2021 21:51 | 
 1049 | [D - Sum of Paths](https://codeforces.com/contest/1467/problem/D) | [GNU C++17 (64)](./codeforces/1467/D.cpp) | `combinatorics` `dp` | Jan/09/2021 01:00 | 
 1048 | [C - Three Bags](https://codeforces.com/contest/1467/problem/C) | [GNU C++17 (64)](./codeforces/1467/C.cpp) | `greedy` | Jan/08/2021 23:53 | 
