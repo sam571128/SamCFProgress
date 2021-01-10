@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1056 | [D - Increase Sequence](https://codeforces.com/contest/466/problem/D) | [GNU C++17 (64)](./codeforces/466/D.cpp) | `combinatorics` `dp` `*2100` | Jan/10/2021 15:03 | 
 1055 | [F - Level Generation](https://codeforces.com/contest/818/problem/F) | [GNU C++17 (64)](./codeforces/818/F.cpp) | `binary search` `math` `ternary search` `*2100` | Jan/09/2021 23:56 | 
 1054 | [A - Simple Math 2](https://atcoder.jp/contests/arc111/tasks/arc111_a) | [C++ (GCC 9.2.1)](./atcoder/arc111/A.cpp) | `AtCoder` `*300` | Jan/09/2021 23:39 | 
 1053 | [D - Single-use Stones](https://codeforces.com/contest/965/problem/D) | [GNU C++17 (64)](./codeforces/965/D.cpp) | `binary search` `flows` `greedy` `two pointers` `*1900` | Jan/09/2021 23:15 | 
