@@ -1983,6 +1983,22 @@
     ],
     "timestamp": "Jan/09/2021 23:39"
   },
+  "AC19382828": {
+    "contest_id": "abc188",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc188/F.cpp",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "+1-1x2",
+    "problem_url": "https://atcoder.jp/contests/abc188/tasks/abc188_f",
+    "submission_id": "AC19382828",
+    "submission_url": "https://atcoder.jp/contests/abc188/submissions/19382828",
+    "tags": [
+      "AtCoder",
+      "*600"
+    ],
+    "timestamp": "Jan/11/2021 20:58"
+  },
   "AC19389474": {
     "contest_id": "arc107",
     "language": "C++ (GCC 9.2.1)",
