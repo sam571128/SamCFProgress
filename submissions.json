@@ -1983,6 +1983,22 @@
     ],
     "timestamp": "Jan/09/2021 23:39"
   },
+  "AC19378055": {
+    "contest_id": "abc186",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc186/F.cpp",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Rook on Grid",
+    "problem_url": "https://atcoder.jp/contests/abc186/tasks/abc186_f",
+    "submission_id": "AC19378055",
+    "submission_url": "https://atcoder.jp/contests/abc186/submissions/19378055",
+    "tags": [
+      "AtCoder",
+      "*600"
+    ],
+    "timestamp": "Jan/11/2021 17:13"
+  },
   "AC19382828": {
     "contest_id": "abc188",
     "language": "C++ (GCC 9.2.1)",
