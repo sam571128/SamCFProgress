@@ -1983,6 +1983,22 @@
     ],
     "timestamp": "Jan/09/2021 23:39"
   },
+  "AC19406256": {
+    "contest_id": "arc107",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/arc107/E.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Mex Mat",
+    "problem_url": "https://atcoder.jp/contests/arc107/tasks/arc107_e",
+    "submission_id": "AC19406256",
+    "submission_url": "https://atcoder.jp/contests/arc107/submissions/19406256",
+    "tags": [
+      "AtCoder",
+      "*800"
+    ],
+    "timestamp": "Jan/13/2021 07:40"
+  },
   "AC19406362": {
     "contest_id": "abc183",
     "language": "C++ (GCC 9.2.1)",
