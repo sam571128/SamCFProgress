@@ -1983,6 +1983,22 @@
     ],
     "timestamp": "Jan/09/2021 23:39"
   },
+  "AC19406362": {
+    "contest_id": "abc183",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc183/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "ReLU",
+    "problem_url": "https://atcoder.jp/contests/abc183/tasks/abc183_a",
+    "submission_id": "AC19406362",
+    "submission_url": "https://atcoder.jp/contests/abc183/submissions/19406362",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/13/2021 07:56"
+  },
   "AC19406379": {
     "contest_id": "abc183",
     "language": "C++ (GCC 9.2.1)",
