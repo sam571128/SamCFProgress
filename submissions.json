@@ -1983,6 +1983,22 @@
     ],
     "timestamp": "Jan/09/2021 23:39"
   },
+  "AC19422201": {
+    "contest_id": "abc181",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc181/B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Trapezoid Sum",
+    "problem_url": "https://atcoder.jp/contests/abc181/tasks/abc181_b",
+    "submission_id": "AC19422201",
+    "submission_url": "https://atcoder.jp/contests/abc181/submissions/19422201",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/14/2021 07:42"
+  },
   "AC19422227": {
     "contest_id": "abc181",
     "language": "C++ (GCC 9.2.1)",
