@@ -1983,6 +1983,22 @@
     ],
     "timestamp": "Jan/09/2021 23:39"
   },
+  "AC19409495": {
+    "contest_id": "abc182",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc182/F.cpp",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Valid payments",
+    "problem_url": "https://atcoder.jp/contests/abc182/tasks/abc182_f",
+    "submission_id": "AC19409495",
+    "submission_url": "https://atcoder.jp/contests/abc182/submissions/19409495",
+    "tags": [
+      "AtCoder",
+      "*600"
+    ],
+    "timestamp": "Jan/13/2021 13:50"
+  },
   "AC19422189": {
     "contest_id": "abc181",
     "language": "C++ (GCC 9.2.1)",
