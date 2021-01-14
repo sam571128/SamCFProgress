@@ -5289,6 +5289,25 @@
     ],
     "timestamp": "Jan/10/2021 15:03"
   },
+  "CF104328061": {
+    "contest_id": 1473,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1473/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Program",
+    "problem_url": "https://codeforces.com/contest/1473/problem/D",
+    "submission_id": "CF104328061",
+    "submission_url": "https://codeforces.com/contest/1473/submission/104328061",
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "strings",
+      "*1700"
+    ],
+    "timestamp": "Jan/14/2021 23:52"
+  },
   "CF104333714": {
     "contest_id": 1473,
     "language": "GNU C++17 (64)",
