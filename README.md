@@ -13,14 +13,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1064 | [D - Happy Tree Party](https://codeforces.com/contest/593/problem/D) | [GNU C++17 (64)](./codeforces/593/D.cpp) | `data structures` `dfs and similar` `graphs` `math` `trees` `*2400` | Jan/17/2021 19:04 | 
-1063 | [D - Water Tree](https://codeforces.com/contest/343/problem/D) | [GNU C++17 (64)](./codeforces/343/D.cpp) | `data structures` `dfs and similar` `graphs` `trees` `*2100` | Jan/17/2021 13:04 | 
-1062 | [C - The Values You Can Make](https://codeforces.com/contest/687/problem/C) | [GNU C++17 (64)](./codeforces/687/C.cpp) | `dp` `*1900` | Jan/16/2021 23:29 | 
-1061 | [E - Merge Equal Elements](https://codeforces.com/contest/926/problem/E) | [GNU C++17 (64)](./codeforces/926/E.cpp) | `constructive algorithms` `data structures` `*1900` | Jan/16/2021 23:07 | 
-1060 | [F - Strange Set](https://codeforces.com/contest/1473/problem/F) | [GNU C++17 (64)](./codeforces/1473/F.cpp) | `flows` `math` `*2700` | Jan/15/2021 20:17 | 
-1059 | [E - Minimum Path](https://codeforces.com/contest/1473/problem/E) | [GNU C++17 (64)](./codeforces/1473/E.cpp) | `graphs` `shortest paths` `*2400` | Jan/15/2021 07:40 | 
-1058 | [C - No More Inversions](https://codeforces.com/contest/1473/problem/C) | [GNU C++17 (64)](./codeforces/1473/C.cpp) | `constructive algorithms` `math` `*1500` | Jan/15/2021 00:07 | 
-1057 | [D - Program](https://codeforces.com/contest/1473/problem/D) | [GNU C++17 (64)](./codeforces/1473/D.cpp) | `data structures` `dp` `implementation` `strings` `*1700` | Jan/14/2021 23:52 | 
+1065 | [D - Happy Tree Party](https://codeforces.com/contest/593/problem/D) | [GNU C++17 (64)](./codeforces/593/D.cpp) | `data structures` `dfs and similar` `graphs` `math` `trees` `*2400` | Jan/17/2021 19:04 | 
+1064 | [D - Water Tree](https://codeforces.com/contest/343/problem/D) | [GNU C++17 (64)](./codeforces/343/D.cpp) | `data structures` `dfs and similar` `graphs` `trees` `*2100` | Jan/17/2021 13:04 | 
+1063 | [C - The Values You Can Make](https://codeforces.com/contest/687/problem/C) | [GNU C++17 (64)](./codeforces/687/C.cpp) | `dp` `*1900` | Jan/16/2021 23:29 | 
+1062 | [E - Merge Equal Elements](https://codeforces.com/contest/926/problem/E) | [GNU C++17 (64)](./codeforces/926/E.cpp) | `constructive algorithms` `data structures` `*1900` | Jan/16/2021 23:07 | 
+1061 | [F - Strange Set](https://codeforces.com/contest/1473/problem/F) | [GNU C++17 (64)](./codeforces/1473/F.cpp) | `flows` `math` `*2700` | Jan/15/2021 20:17 | 
+1060 | [E - Minimum Path](https://codeforces.com/contest/1473/problem/E) | [GNU C++17 (64)](./codeforces/1473/E.cpp) | `graphs` `shortest paths` `*2400` | Jan/15/2021 07:40 | 
+1059 | [C - No More Inversions](https://codeforces.com/contest/1473/problem/C) | [GNU C++17 (64)](./codeforces/1473/C.cpp) | `constructive algorithms` `math` `*1500` | Jan/15/2021 00:07 | 
+1058 | [D - Program](https://codeforces.com/contest/1473/problem/D) | [GNU C++17 (64)](./codeforces/1473/D.cpp) | `data structures` `dp` `implementation` `strings` `*1700` | Jan/14/2021 23:52 | 
+1057 | [B - String LCM](https://codeforces.com/contest/1473/problem/B) | [GNU C++17 (64)](./codeforces/1473/B.cpp) | `brute force` `math` `number theory` `strings` `*1000` | Jan/14/2021 22:43 | 
 1056 | [D - Increase Sequence](https://codeforces.com/contest/466/problem/D) | [GNU C++17 (64)](./codeforces/466/D.cpp) | `combinatorics` `dp` `*2100` | Jan/10/2021 15:03 | 
 1055 | [F - Level Generation](https://codeforces.com/contest/818/problem/F) | [GNU C++17 (64)](./codeforces/818/F.cpp) | `binary search` `math` `ternary search` `*2100` | Jan/09/2021 23:56 | 
 1054 | [A - Simple Math 2](https://atcoder.jp/contests/arc111/tasks/arc111_a) | [C++ (GCC 9.2.1)](./atcoder/arc111/A.cpp) | `AtCoder` `*300` | Jan/09/2021 23:39 | 
