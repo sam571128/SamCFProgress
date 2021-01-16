@@ -13,12 +13,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1078 | [D - Happy Tree Party](https://codeforces.com/contest/593/problem/D) | [GNU C++17 (64)](./codeforces/593/D.cpp) | `data structures` `dfs and similar` `graphs` `math` `trees` `*2400` | Jan/17/2021 19:04 | 
-1077 | [D - Water Tree](https://codeforces.com/contest/343/problem/D) | [GNU C++17 (64)](./codeforces/343/D.cpp) | `data structures` `dfs and similar` `graphs` `trees` `*2100` | Jan/17/2021 13:04 | 
-1076 | [C - The Values You Can Make](https://codeforces.com/contest/687/problem/C) | [GNU C++17 (64)](./codeforces/687/C.cpp) | `dp` `*1900` | Jan/16/2021 23:29 | 
-1075 | [E - Merge Equal Elements](https://codeforces.com/contest/926/problem/E) | [GNU C++17 (64)](./codeforces/926/E.cpp) | `constructive algorithms` `data structures` `*1900` | Jan/16/2021 23:07 | 
-1074 | [C - Robot on Grid](https://atcoder.jp/contests/keyence2021/tasks/keyence2021_c) | [C++ (GCC 9.2.1)](./atcoder/keyence2021/C.cpp) | `AtCoder` `*500` | Jan/16/2021 22:31 | 
-1073 | [B - Mex Boxes](https://atcoder.jp/contests/keyence2021/tasks/keyence2021_b) | [C++ (GCC 9.2.1)](./atcoder/keyence2021/B.cpp) | `AtCoder` `*400` | Jan/16/2021 20:14 | 
+1079 | [D - Happy Tree Party](https://codeforces.com/contest/593/problem/D) | [GNU C++17 (64)](./codeforces/593/D.cpp) | `data structures` `dfs and similar` `graphs` `math` `trees` `*2400` | Jan/17/2021 19:04 | 
+1078 | [D - Water Tree](https://codeforces.com/contest/343/problem/D) | [GNU C++17 (64)](./codeforces/343/D.cpp) | `data structures` `dfs and similar` `graphs` `trees` `*2100` | Jan/17/2021 13:04 | 
+1077 | [C - The Values You Can Make](https://codeforces.com/contest/687/problem/C) | [GNU C++17 (64)](./codeforces/687/C.cpp) | `dp` `*1900` | Jan/16/2021 23:29 | 
+1076 | [E - Merge Equal Elements](https://codeforces.com/contest/926/problem/E) | [GNU C++17 (64)](./codeforces/926/E.cpp) | `constructive algorithms` `data structures` `*1900` | Jan/16/2021 23:07 | 
+1075 | [C - Robot on Grid](https://atcoder.jp/contests/keyence2021/tasks/keyence2021_c) | [C++ (GCC 9.2.1)](./atcoder/keyence2021/C.cpp) | `AtCoder` `*500` | Jan/16/2021 22:31 | 
+1074 | [B - Mex Boxes](https://atcoder.jp/contests/keyence2021/tasks/keyence2021_b) | [C++ (GCC 9.2.1)](./atcoder/keyence2021/B.cpp) | `AtCoder` `*400` | Jan/16/2021 20:14 | 
+1073 | [A - Two Sequences 2](https://atcoder.jp/contests/keyence2021/tasks/keyence2021_a) | [C++ (GCC 9.2.1)](./atcoder/keyence2021/A.cpp) | `AtCoder` `*300` | Jan/16/2021 20:10 | 
 1072 | [F - Strange Set](https://codeforces.com/contest/1473/problem/F) | [GNU C++17 (64)](./codeforces/1473/F.cpp) | `flows` `math` `*2700` | Jan/15/2021 20:17 | 
 1071 | [E - Minimum Path](https://codeforces.com/contest/1473/problem/E) | [GNU C++17 (64)](./codeforces/1473/E.cpp) | `graphs` `shortest paths` `*2400` | Jan/15/2021 07:40 | 
 1070 | [C - No More Inversions](https://codeforces.com/contest/1473/problem/C) | [GNU C++17 (64)](./codeforces/1473/C.cpp) | `constructive algorithms` `math` `*1500` | Jan/15/2021 00:07 | 
