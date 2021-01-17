@@ -5289,6 +5289,26 @@
     ],
     "timestamp": "Jan/10/2021 15:03"
   },
+  "CF104578371": {
+    "contest_id": 593,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/593/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Happy Tree Party",
+    "problem_url": "https://codeforces.com/contest/593/problem/D",
+    "submission_id": "CF104578371",
+    "submission_url": "https://codeforces.com/contest/593/submission/104578371",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "math",
+      "trees",
+      "*2400"
+    ],
+    "timestamp": "Jan/17/2021 19:04"
+  },
   "CF73935202": {
     "contest_id": 4,
     "language": "GNU C++17",
