@@ -6125,6 +6125,22 @@
     ],
     "timestamp": "Jan/17/2021 19:04"
   },
+  "CF104760646": {
+    "contest_id": 802,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/802/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Marmots (easy)",
+    "problem_url": "https://codeforces.com/contest/802/problem/D",
+    "submission_id": "CF104760646",
+    "submission_url": "https://codeforces.com/contest/802/submission/104760646",
+    "tags": [
+      "math",
+      "*2100"
+    ],
+    "timestamp": "Jan/19/2021 19:41"
+  },
   "CF104964822": {
     "contest_id": 1474,
     "language": "GNU C++17 (64)",
