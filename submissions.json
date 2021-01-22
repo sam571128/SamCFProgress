@@ -6125,6 +6125,25 @@
     ],
     "timestamp": "Jan/17/2021 19:04"
   },
+  "CF105035790": {
+    "contest_id": 762,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/762/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "USB vs. PS/2",
+    "problem_url": "https://codeforces.com/contest/762/problem/B",
+    "submission_id": "CF105035790",
+    "submission_url": "https://codeforces.com/contest/762/submission/105035790",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Jan/22/2021 13:17"
+  },
   "CF105038064": {
     "contest_id": 762,
     "language": "GNU C++17 (64)",
