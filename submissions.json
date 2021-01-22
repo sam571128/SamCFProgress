@@ -6125,6 +6125,25 @@
     ],
     "timestamp": "Jan/17/2021 19:04"
   },
+  "CF105038064": {
+    "contest_id": 762,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/762/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Two strings",
+    "problem_url": "https://codeforces.com/contest/762/problem/C",
+    "submission_id": "CF105038064",
+    "submission_url": "https://codeforces.com/contest/762/submission/105038064",
+    "tags": [
+      "binary search",
+      "hashing",
+      "strings",
+      "two pointers",
+      "*2100"
+    ],
+    "timestamp": "Jan/22/2021 14:03"
+  },
   "CF105063367": {
     "contest_id": 762,
     "language": "GNU C++17 (64)",
