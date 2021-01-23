@@ -1,26 +1,27 @@
 #include <bits/stdc++.h>
 
-#define ll long long
+#define int long long
 #define fastio ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
 
 using namespace std;
 
-int main(){
+signed main(){
 	fastio
 	string s;
 	cin >> s;
-	int a[s.size()] = {};
-	int b[s.size()] = {};
-	for(int i = 0;i < s.size();i++){
-		if(i!=0)a[i] = a[i-1],b[i] = b[i-1];
-		if(s[i] == 'a') a[i]++;
-		if(s[i] == 'b') b[i]++;
+	int n = s.size();
+	int cnta[n+1] = {}, cntb[n+1] = {};
+	for(int i = 0;i < n;i++){
+		if(s[i]=='a') cnta[i+1]++;
+		else cntb[i+1]++;
+		cnta[i+1] += cnta[i], cntb[i+1] += cntb[i];
 	}
-	int ans = INT_MIN;
-	for(int i = 0;i < s.size();i++){
-		for(int j = i;j < s.size();j++){
-			ans = max(ans,(i==0?0:a[i-1])+b[j]-(i==0?0:b[i-1])+a[s.size()-1]-(j==0?0:a[j-1]));
+	int ans = INT_MAX;
+	for(int i = 1;i <= n;i++){
+		for(int j = i;j <= n;j++){
+			//cout << i << " " << j << " " << (cnta[i]-cnta[0]+cntb[j]-cntb[i]+cnta[n-1]-cnta[j]) << "\n";
+			ans = min(ans,n-(cnta[i-1]+cntb[j]-cntb[i-1]+cnta[n]-cnta[j-1]));
 		}
 	}
-	cout << ans << "\n";
+	cout << n-ans << "\n";
 }
