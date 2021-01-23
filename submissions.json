@@ -2463,6 +2463,22 @@
     ],
     "timestamp": "Jan/16/2021 22:31"
   },
+  "AC19630850": {
+    "contest_id": "abc189",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc189/E.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Rotate and Flip",
+    "problem_url": "https://atcoder.jp/contests/abc189/tasks/abc189_e",
+    "submission_id": "AC19630850",
+    "submission_url": "https://atcoder.jp/contests/abc189/submissions/19630850",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jan/23/2021 20:59"
+  },
   "CF100107078": {
     "contest_id": 1455,
     "language": "GNU C++17",
