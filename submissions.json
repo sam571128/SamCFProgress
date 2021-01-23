@@ -6311,6 +6311,25 @@
     ],
     "timestamp": "Jan/22/2021 20:36"
   },
+  "CF105164079": {
+    "contest_id": 793,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/793/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Igor and his way to work",
+    "problem_url": "https://codeforces.com/contest/793/problem/B",
+    "submission_id": "CF105164079",
+    "submission_url": "https://codeforces.com/contest/793/submission/105164079",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "shortest paths",
+      "*1600"
+    ],
+    "timestamp": "Jan/23/2021 23:32"
+  },
   "CF105165279": {
     "contest_id": 877,
     "language": "GNU C++17 (64)",
