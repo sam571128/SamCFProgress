@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1116 | [F - One Occurrence](https://codeforces.com/contest/1000/problem/F) | [GNU C++17 (64)](./codeforces/1000/F.cpp) | `data structures` `divide and conquer` `*2400` | Jan/24/2021 02:11 | 
 1115 | [D - Maximum path](https://codeforces.com/contest/762/problem/D) | [GNU C++17 (64)](./codeforces/762/D.cpp) | `dp` `greedy` `implementation` `*2300` | Jan/22/2021 20:36 | 
 1114 | [C - Two strings](https://codeforces.com/contest/762/problem/C) | [GNU C++17 (64)](./codeforces/762/C.cpp) | `binary search` `hashing` `strings` `two pointers` `*2100` | Jan/22/2021 14:03 | 
 1113 | [B - USB vs. PS/2](https://codeforces.com/contest/762/problem/B) | [GNU C++17 (64)](./codeforces/762/B.cpp) | `greedy` `implementation` `sortings` `two pointers` `*1400` | Jan/22/2021 13:17 | 
