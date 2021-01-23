@@ -13,17 +13,18 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1125 | [F - One Occurrence](https://codeforces.com/contest/1000/problem/F) | [GNU C++17 (64)](./codeforces/1000/F.cpp) | `data structures` `divide and conquer` `*2400` | Jan/24/2021 02:11 | 
-1124 | [E - We Need More Bosses](https://codeforces.com/contest/1000/problem/E) | [GNU C++17 (64)](./codeforces/1000/E.cpp) | `dfs and similar` `graphs` `trees` `*2100` | Jan/24/2021 01:38 | 
-1123 | [D - Yet Another Problem On a Subsequence](https://codeforces.com/contest/1000/problem/D) | [GNU C++17 (64)](./codeforces/1000/D.cpp) | `combinatorics` `dp` `*1900` | Jan/24/2021 01:25 | 
-1122 | [C - Covered Points Count](https://codeforces.com/contest/1000/problem/C) | [GNU C++17 (64)](./codeforces/1000/C.cpp) | `data structures` `implementation` `sortings` `*1700` | Jan/24/2021 01:09 | 
-1121 | [B - Light It Up](https://codeforces.com/contest/1000/problem/B) | [GNU C++17 (64)](./codeforces/1000/B.cpp) | `greedy` `*1500` | Jan/24/2021 01:04 | 
-1120 | [A - Codehorses T-shirts](https://codeforces.com/contest/1000/problem/A) | [GNU C++17 (64)](./codeforces/1000/A.cpp) | `greedy` `implementation` `*1200` | Jan/24/2021 00:51 | 
-1119 | [C - The Intriguing Obsession](https://codeforces.com/contest/869/problem/C) | [GNU C++17 (64)](./codeforces/869/C.cpp) | `combinatorics` `dp` `math` `*1800` | Jan/24/2021 00:01 | 
-1118 | [D - Chloe and pleasant prizes](https://codeforces.com/contest/743/problem/D) | [GNU C++17 (64)](./codeforces/743/D.cpp) | `dfs and similar` `dp` `graphs` `trees` `*1800` | Jan/23/2021 23:53 | 
-1117 | [B - Rectangles](https://codeforces.com/contest/844/problem/B) | [GNU C++17 (64)](./codeforces/844/B.cpp) | `combinatorics` `math` `*1300` | Jan/23/2021 23:49 | 
-1116 | [B - Nikita and string](https://codeforces.com/contest/877/problem/B) | [GNU C++17 (64)](./codeforces/877/B.cpp) | `brute force` `dp` `*1500` | Jan/23/2021 23:48 | 
-1115 | [B - Igor and his way to work](https://codeforces.com/contest/793/problem/B) | [GNU C++17 (64)](./codeforces/793/B.cpp) | `dfs and similar` `graphs` `implementation` `shortest paths` `*1600` | Jan/23/2021 23:32 | 
+1126 | [F - One Occurrence](https://codeforces.com/contest/1000/problem/F) | [GNU C++17 (64)](./codeforces/1000/F.cpp) | `data structures` `divide and conquer` `*2400` | Jan/24/2021 02:11 | 
+1125 | [E - We Need More Bosses](https://codeforces.com/contest/1000/problem/E) | [GNU C++17 (64)](./codeforces/1000/E.cpp) | `dfs and similar` `graphs` `trees` `*2100` | Jan/24/2021 01:38 | 
+1124 | [D - Yet Another Problem On a Subsequence](https://codeforces.com/contest/1000/problem/D) | [GNU C++17 (64)](./codeforces/1000/D.cpp) | `combinatorics` `dp` `*1900` | Jan/24/2021 01:25 | 
+1123 | [C - Covered Points Count](https://codeforces.com/contest/1000/problem/C) | [GNU C++17 (64)](./codeforces/1000/C.cpp) | `data structures` `implementation` `sortings` `*1700` | Jan/24/2021 01:09 | 
+1122 | [B - Light It Up](https://codeforces.com/contest/1000/problem/B) | [GNU C++17 (64)](./codeforces/1000/B.cpp) | `greedy` `*1500` | Jan/24/2021 01:04 | 
+1121 | [A - Codehorses T-shirts](https://codeforces.com/contest/1000/problem/A) | [GNU C++17 (64)](./codeforces/1000/A.cpp) | `greedy` `implementation` `*1200` | Jan/24/2021 00:51 | 
+1120 | [C - The Intriguing Obsession](https://codeforces.com/contest/869/problem/C) | [GNU C++17 (64)](./codeforces/869/C.cpp) | `combinatorics` `dp` `math` `*1800` | Jan/24/2021 00:01 | 
+1119 | [D - Chloe and pleasant prizes](https://codeforces.com/contest/743/problem/D) | [GNU C++17 (64)](./codeforces/743/D.cpp) | `dfs and similar` `dp` `graphs` `trees` `*1800` | Jan/23/2021 23:53 | 
+1118 | [B - Rectangles](https://codeforces.com/contest/844/problem/B) | [GNU C++17 (64)](./codeforces/844/B.cpp) | `combinatorics` `math` `*1300` | Jan/23/2021 23:49 | 
+1117 | [B - Nikita and string](https://codeforces.com/contest/877/problem/B) | [GNU C++17 (64)](./codeforces/877/B.cpp) | `brute force` `dp` `*1500` | Jan/23/2021 23:48 | 
+1116 | [B - Igor and his way to work](https://codeforces.com/contest/793/problem/B) | [GNU C++17 (64)](./codeforces/793/B.cpp) | `dfs and similar` `graphs` `implementation` `shortest paths` `*1600` | Jan/23/2021 23:32 | 
+1115 | [E - Nastya and King-Shamans](https://codeforces.com/contest/992/problem/E) | [GNU C++17 (64)](./codeforces/992/E.cpp) | `binary search` `data structures` `*2500` | Jan/23/2021 16:29 | 
 1114 | [D - Maximum path](https://codeforces.com/contest/762/problem/D) | [GNU C++17 (64)](./codeforces/762/D.cpp) | `dp` `greedy` `implementation` `*2300` | Jan/22/2021 20:36 | 
 1113 | [C - Two strings](https://codeforces.com/contest/762/problem/C) | [GNU C++17 (64)](./codeforces/762/C.cpp) | `binary search` `hashing` `strings` `two pointers` `*2100` | Jan/22/2021 14:03 | 
 1112 | [B - USB vs. PS/2](https://codeforces.com/contest/762/problem/B) | [GNU C++17 (64)](./codeforces/762/B.cpp) | `greedy` `implementation` `sortings` `two pointers` `*1400` | Jan/22/2021 13:17 | 

@@ -6311,6 +6311,23 @@
     ],
     "timestamp": "Jan/22/2021 20:36"
   },
+  "CF105133045": {
+    "contest_id": 992,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/992/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Nastya and King-Shamans",
+    "problem_url": "https://codeforces.com/contest/992/problem/E",
+    "submission_id": "CF105133045",
+    "submission_url": "https://codeforces.com/contest/992/submission/105133045",
+    "tags": [
+      "binary search",
+      "data structures",
+      "*2500"
+    ],
+    "timestamp": "Jan/23/2021 16:29"
+  },
   "CF105164079": {
     "contest_id": 793,
     "language": "GNU C++17 (64)",
