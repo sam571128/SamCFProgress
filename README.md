@@ -13,19 +13,20 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1148 | [E - Nezzar and Binary String](https://codeforces.com/contest/1478/problem/E) | [GNU C++17 (64)](./codeforces/1478/E.cpp) | `data structures` `greedy` `*1900` | Feb/03/2021 17:13 | 
-1147 | [D - Nezzar and Board](https://codeforces.com/contest/1478/problem/D) | [GNU C++17 (64)](./codeforces/1478/D.cpp) | `constructive algorithms` `math` `number theory` `*1800` | Feb/03/2021 15:55 | 
-1146 | [C - Nezzar and Symmetric Array](https://codeforces.com/contest/1478/problem/C) | [GNU C++17 (64)](./codeforces/1478/C.cpp) | `implementation` `math` `sortings` `*1700` | Feb/03/2021 15:40 | 
-1145 | [B - Nezzar and Lucky Number](https://codeforces.com/contest/1478/problem/B) | [GNU C++17 (64)](./codeforces/1478/B.cpp) | `brute force` `dp` `greedy` `math` `*1100` | Feb/03/2021 14:53 | 
-1144 | [A - Nezzar and Colorful Balls](https://codeforces.com/contest/1478/problem/A) | [GNU C++17 (64)](./codeforces/1478/A.cpp) | `brute force` `greedy` `*800` | Feb/03/2021 14:43 | 
-1143 | [D - Journey](https://codeforces.com/contest/1476/problem/D) | [GNU C++17 (64)](./codeforces/1476/D.cpp) | `dfs and similar` `dp` `dsu` `implementation` `*1700` | Feb/02/2021 19:05 | 
-1142 | [C - Longest Simple Cycle](https://codeforces.com/contest/1476/problem/C) | [GNU C++17 (64)](./codeforces/1476/C.cpp) | `dp` `graphs` `greedy` `*1600` | Feb/02/2021 18:47 | 
-1141 | [B - Inflation](https://codeforces.com/contest/1476/problem/B) | [GNU C++17 (64)](./codeforces/1476/B.cpp) | `binary search` `brute force` `greedy` `math` `*1300` | Feb/02/2021 17:41 | 
-1140 | [A - K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | [GNU C++17 (64)](./codeforces/1476/A.cpp) | `binary search` `constructive algorithms` `greedy` `math` `*1000` | Feb/02/2021 17:11 | 
-1139 | [C - Lieges of Legendre](https://codeforces.com/contest/603/problem/C) | [GNU C++17 (64)](./codeforces/603/C.cpp) | `games` `math` `*2200` | Jan/30/2021 17:05 | 
-1138 | [E - Demiurges Play Again](https://codeforces.com/contest/538/problem/E) | [GNU C++17 (64)](./codeforces/538/E.cpp) | `dfs and similar` `dp` `math` `trees` `*2200` | Jan/27/2021 16:18 | 
-1137 | [D - Vasya And The Matrix](https://codeforces.com/contest/1016/problem/D) | [GNU C++17 (64)](./codeforces/1016/D.cpp) | `constructive algorithms` `flows` `math` `*1800` | Jan/27/2021 13:55 | 
-1136 | [B - The Same Calendar](https://codeforces.com/contest/678/problem/B) | [GNU C++17 (64)](./codeforces/678/B.cpp) | `implementation` `*1600` | Jan/27/2021 13:38 | 
+1149 | [E - Nezzar and Binary String](https://codeforces.com/contest/1478/problem/E) | [GNU C++17 (64)](./codeforces/1478/E.cpp) | `data structures` `greedy` `*1900` | Feb/03/2021 17:13 | 
+1148 | [D - Nezzar and Board](https://codeforces.com/contest/1478/problem/D) | [GNU C++17 (64)](./codeforces/1478/D.cpp) | `constructive algorithms` `math` `number theory` `*1800` | Feb/03/2021 15:55 | 
+1147 | [C - Nezzar and Symmetric Array](https://codeforces.com/contest/1478/problem/C) | [GNU C++17 (64)](./codeforces/1478/C.cpp) | `implementation` `math` `sortings` `*1700` | Feb/03/2021 15:40 | 
+1146 | [B - Nezzar and Lucky Number](https://codeforces.com/contest/1478/problem/B) | [GNU C++17 (64)](./codeforces/1478/B.cpp) | `brute force` `dp` `greedy` `math` `*1100` | Feb/03/2021 14:53 | 
+1145 | [A - Nezzar and Colorful Balls](https://codeforces.com/contest/1478/problem/A) | [GNU C++17 (64)](./codeforces/1478/A.cpp) | `brute force` `greedy` `*800` | Feb/03/2021 14:43 | 
+1144 | [D - Journey](https://codeforces.com/contest/1476/problem/D) | [GNU C++17 (64)](./codeforces/1476/D.cpp) | `dfs and similar` `dp` `dsu` `implementation` `*1700` | Feb/02/2021 19:05 | 
+1143 | [C - Longest Simple Cycle](https://codeforces.com/contest/1476/problem/C) | [GNU C++17 (64)](./codeforces/1476/C.cpp) | `dp` `graphs` `greedy` `*1600` | Feb/02/2021 18:47 | 
+1142 | [B - Inflation](https://codeforces.com/contest/1476/problem/B) | [GNU C++17 (64)](./codeforces/1476/B.cpp) | `binary search` `brute force` `greedy` `math` `*1300` | Feb/02/2021 17:41 | 
+1141 | [A - K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | [GNU C++17 (64)](./codeforces/1476/A.cpp) | `binary search` `constructive algorithms` `greedy` `math` `*1000` | Feb/02/2021 17:11 | 
+1140 | [C - Lieges of Legendre](https://codeforces.com/contest/603/problem/C) | [GNU C++17 (64)](./codeforces/603/C.cpp) | `games` `math` `*2200` | Jan/30/2021 17:05 | 
+1139 | [E - Demiurges Play Again](https://codeforces.com/contest/538/problem/E) | [GNU C++17 (64)](./codeforces/538/E.cpp) | `dfs and similar` `dp` `math` `trees` `*2200` | Jan/27/2021 16:18 | 
+1138 | [D - Vasya And The Matrix](https://codeforces.com/contest/1016/problem/D) | [GNU C++17 (64)](./codeforces/1016/D.cpp) | `constructive algorithms` `flows` `math` `*1800` | Jan/27/2021 13:55 | 
+1137 | [B - The Same Calendar](https://codeforces.com/contest/678/problem/B) | [GNU C++17 (64)](./codeforces/678/B.cpp) | `implementation` `*1600` | Jan/27/2021 13:38 | 
+1136 | [D - Coins and Queries](https://codeforces.com/contest/1003/problem/D) | [GNU C++17 (64)](./codeforces/1003/D.cpp) | `greedy` `*1600` | Jan/27/2021 13:29 | 
 1135 | [F - One Occurrence](https://codeforces.com/contest/1000/problem/F) | [GNU C++17 (64)](./codeforces/1000/F.cpp) | `data structures` `divide and conquer` `*2400` | Jan/24/2021 02:11 | 
 1134 | [E - We Need More Bosses](https://codeforces.com/contest/1000/problem/E) | [GNU C++17 (64)](./codeforces/1000/E.cpp) | `dfs and similar` `graphs` `trees` `*2100` | Jan/24/2021 01:38 | 
 1133 | [D - Yet Another Problem On a Subsequence](https://codeforces.com/contest/1000/problem/D) | [GNU C++17 (64)](./codeforces/1000/D.cpp) | `combinatorics` `dp` `*1900` | Jan/24/2021 01:25 | 
