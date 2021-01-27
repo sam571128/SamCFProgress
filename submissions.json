@@ -6673,6 +6673,22 @@
     ],
     "timestamp": "Jan/24/2021 02:11"
   },
+  "CF105535628": {
+    "contest_id": 678,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/678/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Same Calendar",
+    "problem_url": "https://codeforces.com/contest/678/problem/B",
+    "submission_id": "CF105535628",
+    "submission_url": "https://codeforces.com/contest/678/submission/105535628",
+    "tags": [
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Jan/27/2021 13:38"
+  },
   "CF105536893": {
     "contest_id": 1016,
     "language": "GNU C++17 (64)",
