@@ -6673,6 +6673,23 @@
     ],
     "timestamp": "Jan/24/2021 02:11"
   },
+  "CF105999654": {
+    "contest_id": 603,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/603/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Lieges of Legendre",
+    "problem_url": "https://codeforces.com/contest/603/problem/C",
+    "submission_id": "CF105999654",
+    "submission_url": "https://codeforces.com/contest/603/submission/105999654",
+    "tags": [
+      "games",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "Jan/30/2021 17:05"
+  },
   "CF106264042": {
     "contest_id": 1476,
     "language": "GNU C++17 (64)",
