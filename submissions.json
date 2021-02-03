@@ -6673,6 +6673,23 @@
     ],
     "timestamp": "Jan/24/2021 02:11"
   },
+  "CF106341000": {
+    "contest_id": 1478,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1478/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Nezzar and Colorful Balls",
+    "problem_url": "https://codeforces.com/contest/1478/problem/A",
+    "submission_id": "CF106341000",
+    "submission_url": "https://codeforces.com/contest/1478/submission/106341000",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Feb/03/2021 14:43"
+  },
   "CF106341855": {
     "contest_id": 1478,
     "language": "GNU C++17 (64)",
