@@ -55,16 +55,20 @@ struct Dinic{
 	int dfs(int u, int now){
 		if(now == 0) return 0;
 		if(u == t) return now;
+		int res = 0;
 		for(;num[u] < adj[u].size(); num[u]++){
 			edge e = edges[adj[u][num[u]]];
 			if(level[e.v]!=level[u]+1||e.cap-e.flow<=0) continue;
 			int f = dfs(e.v,min(now,e.cap-e.flow));
-			if(!f) continue;
-			edges[adj[u][num[u]]].flow += f;
-			edges[adj[u][num[u]]^1].flow -= f;
-			return f;
+			if(f > 0){
+				res += f;
+				now -= f;
+				edges[adj[u][num[u]]].flow += f;
+				edges[adj[u][num[u]]^1].flow -= f;
+				if(!f) break;
+			}
 		}
-		return 0;
+		return res;
 	}
 
 	int get_flow(){
