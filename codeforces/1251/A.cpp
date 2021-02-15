@@ -6,28 +6,32 @@
 using namespace std;
 
 void solve(){
-	char c = '\0';
-	int cnt = 0;
 	string s;
 	cin >> s;
-	string ans = "";
-	for(auto ch : s){
-		if(ch!=c){
-			if(cnt&&cnt%2) ans += c;
-			c = ch;
+	char now = '1';
+	int cnt = 0;
+	set<char> v;
+	for(auto c : s){
+		if(c!=now){			
+			if(cnt%2&&now>='a'&&now<='z'){
+				v.insert(now);
+			}
 			cnt = 1;
-		}else cnt++;
+			now = c;
+		}else{
+			cnt++;
+		}
 	}
-	if(cnt%2) ans += c;
-	sort(ans.begin(),ans.end());
-	ans.resize(unique(ans.begin(),ans.end())-ans.begin());
-	cout << ans << "\n";
+	if(cnt%2&&now>='a'&&now<='z'){
+		v.insert(now);
+	}
+	for(auto c : v) cout << c;
+	cout << "\n";
 }
 
 signed main(){
 	fastio
-	int t;
+	int t = 1;
 	cin >> t;
-	while(t--)
-		solve();
-}
+	while(t--) solve();
+}	
