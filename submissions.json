@@ -7067,6 +7067,23 @@
     ],
     "timestamp": "Feb/03/2021 17:13"
   },
+  "CF107376552": {
+    "contest_id": 1473,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1473/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Strange Set",
+    "problem_url": "https://codeforces.com/contest/1473/problem/F",
+    "submission_id": "CF107376552",
+    "submission_url": "https://codeforces.com/contest/1473/submission/107376552",
+    "tags": [
+      "flows",
+      "math",
+      "*2700"
+    ],
+    "timestamp": "Feb/15/2021 11:37"
+  },
   "CF107396108": {
     "contest_id": 1473,
     "language": "GNU C++17 (64)",

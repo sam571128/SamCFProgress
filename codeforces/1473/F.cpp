@@ -16,7 +16,7 @@ struct Dinic{
 	vector<vector<int>> adj;
 	vector<int> level, num;
 	queue<int> q;
-	int n, s, t, cnt = 0; //To maintain the id of edges
+	int n, s, t, cnt = 0, lim; //To maintain the id of edges
 
 	void init(int nn, int ss, int tt){
 		n = nn+1, s = ss, t = tt;
@@ -43,7 +43,7 @@ struct Dinic{
 			for(auto eid : adj[u]){
 				edge e = edges[eid];
 				//We only pass the edge that has positive capacity
-				if(e.cap-e.flow<=0||level[e.v]!=-1) continue;
+				if(e.cap-e.flow<lim||level[e.v]!=-1) continue;
 				level[e.v] = level[u]+1;
 				q.push(e.v);
 			}
@@ -55,29 +55,26 @@ struct Dinic{
 	int dfs(int u, int now){
 		if(now == 0) return 0;
 		if(u == t) return now;
-		int res = 0;
 		for(;num[u] < adj[u].size(); num[u]++){
 			edge e = edges[adj[u][num[u]]];
 			if(level[e.v]!=level[u]+1||e.cap-e.flow<=0) continue;
 			int f = dfs(e.v,min(now,e.cap-e.flow));
-			if(f > 0){
-				res += f;
-				now -= f;
-				edges[adj[u][num[u]]].flow += f;
-				edges[adj[u][num[u]]^1].flow -= f;
-				if(!f) break;
-			}
+			if(!f) continue;
+			edges[adj[u][num[u]]].flow += f;
+			edges[adj[u][num[u]]^1].flow -= f;
+			return f;
 		}
-		return res;
+		return 0;
 	}
 
 	int get_flow(){
 		int res = 0, now;
-		while(true){
-			if(!bfs()) break;
-			fill(num.begin(),num.end(),0);
-			while(now = dfs(s,INF)){
-				res += now;
+		for(lim = (1<<30); lim > 0; lim>>=1){
+			while(bfs()){
+				fill(num.begin(),num.end(),0);
+				while(now = dfs(s,INF)){
+					res += now;
+				}
 			}
 		}
 		return res;
