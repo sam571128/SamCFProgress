@@ -7067,6 +7067,25 @@
     ],
     "timestamp": "Feb/03/2021 17:13"
   },
+  "CF107456485": {
+    "contest_id": 1487,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1487/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Pythagorean Triples",
+    "problem_url": "https://codeforces.com/contest/1487/problem/D",
+    "submission_id": "CF107456485",
+    "submission_url": "https://codeforces.com/contest/1487/submission/107456485",
+    "tags": [
+      "binary search",
+      "brute force",
+      "math",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Feb/16/2021 00:07"
+  },
   "CF107459027": {
     "contest_id": 1487,
     "language": "GNU C++17 (64)",
