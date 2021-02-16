@@ -7067,6 +7067,24 @@
     ],
     "timestamp": "Feb/03/2021 17:13"
   },
+  "CF107501951": {
+    "contest_id": 1198,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1198/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Rectangle Painting 2",
+    "problem_url": "https://codeforces.com/contest/1198/problem/E",
+    "submission_id": "CF107501951",
+    "submission_url": "https://codeforces.com/contest/1198/submission/107501951",
+    "tags": [
+      "flows",
+      "graph matchings",
+      "graphs",
+      "*2500"
+    ],
+    "timestamp": "Feb/16/2021 13:11"
+  },
   "CF107507774": {
     "contest_id": 438,
     "language": "GNU C++17 (64)",
