@@ -7067,6 +7067,24 @@
     ],
     "timestamp": "Feb/03/2021 17:13"
   },
+  "CF107705571": {
+    "contest_id": 1096,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1096/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Lucky Tickets",
+    "problem_url": "https://codeforces.com/contest/1096/problem/G",
+    "submission_id": "CF107705571",
+    "submission_url": "https://codeforces.com/contest/1096/submission/107705571",
+    "tags": [
+      "divide and conquer",
+      "dp",
+      "fft",
+      "*2400"
+    ],
+    "timestamp": "Feb/17/2021 23:23"
+  },
   "CF107706477": {
     "contest_id": 1119,
     "language": "GNU C++17 (64)",
